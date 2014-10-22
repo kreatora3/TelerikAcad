@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLParsers\CatalogClient\bin\Debug\CatalogClient.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLParsers\CatalogClient\bin\Debug\CatalogClient.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLParsers\CatalogClient\bin\Debug\CatalogClient.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLParsers\CatalogClient\obj\Debug\CatalogClient.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLParsers\CatalogClient\obj\Debug\CatalogClient.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLParsers\CatalogClient\obj\Debug\CatalogClient.pdb

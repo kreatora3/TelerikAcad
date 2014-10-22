@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\03.FloatCompare\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\03.FloatCompare\bin\Release\03.FloatCompare.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\03.FloatCompare\bin\Release\03.FloatCompare.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\03.FloatCompare\obj\x86\Release\03.FloatCompare.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\03.FloatCompare\obj\x86\Release\03.FloatCompare.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\03.FloatCompare\obj\x86\Release\03.FloatCompare.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\03.FloatCompare\obj\x86\Release\03.FloatCompare.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\03.FloatCompare\bin\Release\03.FloatCompare.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\03.FloatCompare\bin\Release\03.FloatCompare.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\03.FloatCompare\obj\x86\Release\ResolveAssemblyReference.cache

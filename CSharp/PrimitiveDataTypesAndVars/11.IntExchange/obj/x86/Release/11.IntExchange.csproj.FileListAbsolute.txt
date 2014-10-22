@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\11.IntExchange\bin\Release\11.IntExchange.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\11.IntExchange\bin\Release\11.IntExchange.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\11.IntExchange\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\11.IntExchange\obj\x86\Release\11.IntExchange.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\11.IntExchange\obj\x86\Release\11.IntExchange.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\11.IntExchange\obj\x86\Release\11.IntExchange.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\11.IntExchange\obj\x86\Release\11.IntExchange.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\11.IntExchange\bin\Release\11.IntExchange.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\11.IntExchange\bin\Release\11.IntExchange.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\11.IntExchange\obj\x86\Release\ResolveAssemblyReference.cache

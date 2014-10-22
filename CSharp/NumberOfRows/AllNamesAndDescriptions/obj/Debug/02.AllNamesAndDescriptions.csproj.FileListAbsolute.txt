@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AllNamesAndDescriptions\bin\Debug\AllNamesAndDescriptions.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AllNamesAndDescriptions\bin\Debug\AllNamesAndDescriptions.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AllNamesAndDescriptions\bin\Debug\AllNamesAndDescriptions.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AllNamesAndDescriptions\obj\Debug\AllNamesAndDescriptions.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AllNamesAndDescriptions\obj\Debug\AllNamesAndDescriptions.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AllNamesAndDescriptions\obj\Debug\02.AllNamesAndDescriptions.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.MagicWords\bin\Debug\2.MagicWords.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.MagicWords\bin\Debug\2.MagicWords.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.MagicWords\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.MagicWords\obj\x86\Debug\2.MagicWords.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.MagicWords\obj\x86\Debug\2.MagicWords.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\24.AlphabeticOrder\bin\Debug\24.AlphabeticOrder.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\24.AlphabeticOrder\bin\Debug\24.AlphabeticOrder.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\24.AlphabeticOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\24.AlphabeticOrder\obj\x86\Debug\24.AlphabeticOrder.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\24.AlphabeticOrder\obj\x86\Debug\24.AlphabeticOrder.pdb

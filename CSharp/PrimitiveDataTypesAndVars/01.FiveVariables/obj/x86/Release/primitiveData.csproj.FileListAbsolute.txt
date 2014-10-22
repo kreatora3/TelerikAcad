@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\primitiveData\bin\Release\primitiveData.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\primitiveData\bin\Release\primitiveData.pdb
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\primitiveData\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\primitiveData\obj\x86\Release\primitiveData.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\primitiveData\obj\x86\Release\primitiveData.pdb

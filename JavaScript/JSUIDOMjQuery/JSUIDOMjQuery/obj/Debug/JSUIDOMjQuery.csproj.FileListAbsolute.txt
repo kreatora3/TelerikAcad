@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQuery\JSUIDOMjQuery\bin\JSUIDOMjQuery.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQuery\JSUIDOMjQuery\bin\JSUIDOMjQuery.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQuery\JSUIDOMjQuery\bin\JSUIDOMjQuery.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQuery\JSUIDOMjQuery\obj\Debug\JSUIDOMjQuery.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQuery\JSUIDOMjQuery\obj\Debug\JSUIDOMjQuery.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQuery\JSUIDOMjQuery\obj\Debug\JSUIDOMjQuery.pdb

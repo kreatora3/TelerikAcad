@@ -1,0 +1,5 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.Model\bin\Debug\StoreSystem.Model.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.Model\bin\Debug\StoreSystem.Model.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.Model\obj\Debug\StoreSystem.Model.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.Model\obj\Debug\StoreSystem.Model.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.Model\obj\Debug\StoreSystem.Model.pdb

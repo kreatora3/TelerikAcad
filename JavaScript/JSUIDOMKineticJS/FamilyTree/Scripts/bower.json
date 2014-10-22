@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "y",
+  "authors": [
+    "Ivan Tochev <annihilatora@gmail.com>"
+  ],
+  "description": "y",
+  "main": "y",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

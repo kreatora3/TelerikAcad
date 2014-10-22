@@ -1,0 +1,5 @@
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\11.VersionAttribute\bin\Debug\11.VersionAttribute.exe.config
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\11.VersionAttribute\bin\Debug\11.VersionAttribute.exe
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\11.VersionAttribute\bin\Debug\11.VersionAttribute.pdb
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\11.VersionAttribute\obj\Debug\11.VersionAttribute.exe
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\11.VersionAttribute\obj\Debug\11.VersionAttribute.pdb

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\BankSystem\bin\Debug\BankSystem.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\BankSystem\bin\Debug\BankSystem.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\BankSystem\bin\Debug\BankSystem.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\BankSystem\obj\Debug\BankSystem.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\BankSystem\obj\Debug\BankSystem.pdb

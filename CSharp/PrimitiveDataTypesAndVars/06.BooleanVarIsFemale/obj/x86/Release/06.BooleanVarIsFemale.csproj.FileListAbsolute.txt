@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\06.BooleanVarIsFemale\bin\Release\06.BooleanVarIsFemale.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\06.BooleanVarIsFemale\bin\Release\06.BooleanVarIsFemale.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\06.BooleanVarIsFemale\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\06.BooleanVarIsFemale\obj\x86\Release\06.BooleanVarIsFemale.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\06.BooleanVarIsFemale\obj\x86\Release\06.BooleanVarIsFemale.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\06.BooleanVarIsFemale\obj\x86\Release\06.BooleanVarIsFemale.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\06.BooleanVarIsFemale\obj\x86\Release\06.BooleanVarIsFemale.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\06.BooleanVarIsFemale\bin\Release\06.BooleanVarIsFemale.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\06.BooleanVarIsFemale\bin\Release\06.BooleanVarIsFemale.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\06.BooleanVarIsFemale\obj\x86\Release\ResolveAssemblyReference.cache

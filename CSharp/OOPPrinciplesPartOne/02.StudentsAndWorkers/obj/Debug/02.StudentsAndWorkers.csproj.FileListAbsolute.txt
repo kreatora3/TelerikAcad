@@ -1,0 +1,6 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\OOPPrinciplesPartOne\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\OOPPrinciplesPartOne\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\OOPPrinciplesPartOne\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\OOPPrinciplesPartOne\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\OOPPrinciplesPartOne\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\OOPPrinciplesPartOne\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\WriteJpegFiles\bin\Debug\WriteJpegFiles.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\WriteJpegFiles\obj\Debug\05.WriteJpegFiles.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\WriteJpegFiles\bin\Debug\WriteJpegFiles.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\WriteJpegFiles\bin\Debug\WriteJpegFiles.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\WriteJpegFiles\obj\Debug\WriteJpegFiles.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\WriteJpegFiles\obj\Debug\WriteJpegFiles.pdb

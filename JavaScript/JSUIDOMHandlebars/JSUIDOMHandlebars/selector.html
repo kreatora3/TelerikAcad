@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Selector</title>
+    <link href="styles/selectorStyle.css" rel="stylesheet" /> 
+</head>
+<body>
+    <div>
+        <select id="rootselector"></select>
+    </div>
+    <script id="options-template" type="text/x-handlebars-template">
+        {{#options}}
+        <option class="option" value="{{value}}">{{text}}</option>
+        {{/options}}
+    </script>
+    <script src="libs/handlebars.min.js"></script>
+    <script src="scripts/selectorscript.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\SqliteBooks.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\x64\SQLite.Interop.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\x86\SQLite.Interop.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\SqliteBooks.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\SqliteBooks.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\EntityFramework.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\System.Data.SQLite.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\EntityFramework.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\bin\Debug\System.Data.SQLite.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\obj\Debug\SqliteBooks.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\obj\Debug\SqliteBooks.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SqliteBooks\obj\Debug\SqliteBooks.pdb

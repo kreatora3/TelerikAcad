@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSSVG\JSSVG\bin\JSSVG.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSSVG\JSSVG\bin\JSSVG.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSSVG\JSSVG\bin\JSSVG.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSSVG\JSSVG\obj\Debug\JSSVG.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSSVG\JSSVG\obj\Debug\JSSVG.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSSVG\JSSVG\obj\Debug\JSSVG.pdb

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMAnimations\JSUIDOMAnimations\bin\JSUIDOMAnimations.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMAnimations\JSUIDOMAnimations\bin\JSUIDOMAnimations.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMAnimations\JSUIDOMAnimations\bin\JSUIDOMAnimations.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMAnimations\JSUIDOMAnimations\obj\Debug\JSUIDOMAnimations.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMAnimations\JSUIDOMAnimations\obj\Debug\JSUIDOMAnimations.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMAnimations\JSUIDOMAnimations\obj\Debug\JSUIDOMAnimations.pdb

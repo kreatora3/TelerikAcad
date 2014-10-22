@@ -1,0 +1,5 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. 9Gag Numbers\bin\Debug\1. 9Gag Numbers.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. 9Gag Numbers\bin\Debug\1. 9Gag Numbers.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. 9Gag Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. 9Gag Numbers\obj\x86\Debug\1. 9Gag Numbers.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. 9Gag Numbers\obj\x86\Debug\1. 9Gag Numbers.pdb

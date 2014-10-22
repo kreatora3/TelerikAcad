@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\NumberOfRows\bin\Debug\NumberOfRows.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\NumberOfRows\obj\Debug\NumberOfRows.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\NumberOfRows\bin\Debug\NumberOfRows.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\NumberOfRows\bin\Debug\NumberOfRows.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\NumberOfRows\obj\Debug\NumberOfRows.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\NumberOfRows\obj\Debug\NumberOfRows.pdb

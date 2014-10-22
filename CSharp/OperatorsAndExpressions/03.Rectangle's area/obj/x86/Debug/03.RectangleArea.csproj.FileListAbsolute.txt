@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\03.Rectangle's area\bin\Debug\03.Rectangle's area.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\03.Rectangle's area\bin\Debug\03.Rectangle's area.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\03.Rectangle's area\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\03.Rectangle's area\obj\x86\Debug\03.Rectangle's area.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\03.Rectangle's area\obj\x86\Debug\03.Rectangle's area.pdb

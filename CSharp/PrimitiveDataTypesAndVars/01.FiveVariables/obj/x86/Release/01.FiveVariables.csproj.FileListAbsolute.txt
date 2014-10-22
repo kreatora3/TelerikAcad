@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\01.FiveVariables\bin\Release\01.FiveVariables.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\01.FiveVariables\bin\Release\01.FiveVariables.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\01.FiveVariables\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\01.FiveVariables\obj\x86\Release\01.FiveVariables.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\01.FiveVariables\obj\x86\Release\01.FiveVariables.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\01.FiveVariables\obj\x86\Release\01.FiveVariables.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\01.FiveVariables\obj\x86\Release\01.FiveVariables.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\01.FiveVariables\bin\Release\01.FiveVariables.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\01.FiveVariables\bin\Release\01.FiveVariables.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\01.FiveVariables\obj\x86\Release\ResolveAssemblyReference.cache

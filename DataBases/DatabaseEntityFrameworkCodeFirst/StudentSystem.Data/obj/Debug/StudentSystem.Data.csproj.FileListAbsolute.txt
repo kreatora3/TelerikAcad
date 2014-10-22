@@ -1,0 +1,14 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Model.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Model.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.Migrations.InitialCreate.resources
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.csproj.GenerateResource.Cache

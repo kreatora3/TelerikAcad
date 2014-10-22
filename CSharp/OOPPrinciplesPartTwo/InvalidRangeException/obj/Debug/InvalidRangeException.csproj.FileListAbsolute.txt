@@ -1,0 +1,6 @@
+C:\Users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\InvalidRangeException\bin\Debug\InvalidRangeException.exe.config
+C:\Users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\InvalidRangeException\obj\Debug\InvalidRangeException.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\InvalidRangeException\bin\Debug\InvalidRangeException.exe
+C:\Users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\InvalidRangeException\bin\Debug\InvalidRangeException.pdb
+C:\Users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\InvalidRangeException\obj\Debug\InvalidRangeException.exe
+C:\Users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\InvalidRangeException\obj\Debug\InvalidRangeException.pdb

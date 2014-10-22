@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{849647EE-ABAB-4533-940A-6268C8CEBA64}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JSUIDOMAnimations</RootNamespace>
+    <AssemblyName>JSUIDOMAnimations</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Libs\bower_components\jquery\.bower.json" />
+    <Content Include="Libs\bower_components\jquery\bower.json" />
+    <Content Include="Libs\bower_components\jquery\dist\jquery.min.map" />
+    <Content Include="Libs\bower_components\jquery\src\sizzle\dist\sizzle.min.map" />
+    <Content Include="Libs\bower_components\kineticjs\.bower.json" />
+    <Content Include="Libs\bower_components\kineticjs\bower-template.json" />
+    <Content Include="Libs\bower_components\kineticjs\bower.json" />
+    <Content Include="Libs\bower_components\kineticjs\package.json" />
+    <Content Include="Libs\bower_components\kineticjs\presentation-schedule.md" />
+    <Content Include="Libs\bower_components\kineticjs\README.md" />
+    <Content Include="Libs\bower_components\raphael\.bower.json" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imgs\bgrnd.png" />
+    <Content Include="imgs\mario.png" />
+    <Content Include="Libs\bower_components\jquery\dist\jquery.js" />
+    <Content Include="Libs\bower_components\jquery\dist\jquery.min.js" />
+    <Content Include="Libs\bower_components\jquery\MIT-LICENSE.txt" />
+    <Content Include="Libs\bower_components\jquery\src\ajax.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\jsonp.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\load.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\parseJSON.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\parseXML.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\script.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\var\nonce.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\var\rquery.js" />
+    <Content Include="Libs\bower_components\jquery\src\ajax\xhr.js" />
+    <Content Include="Libs\bower_components\jquery\src\attributes.js" />
+    <Content Include="Libs\bower_components\jquery\src\attributes\attr.js" />
+    <Content Include="Libs\bower_components\jquery\src\attributes\classes.js" />
+    <Content Include="Libs\bower_components\jquery\src\attributes\prop.js" />
+    <Content Include="Libs\bower_components\jquery\src\attributes\support.js" />
+    <Content Include="Libs\bower_components\jquery\src\attributes\val.js" />
+    <Content Include="Libs\bower_components\jquery\src\callbacks.js" />
+    <Content Include="Libs\bower_components\jquery\src\core.js" />
+    <Content Include="Libs\bower_components\jquery\src\core\access.js" />
+    <Content Include="Libs\bower_components\jquery\src\core\init.js" />
+    <Content Include="Libs\bower_components\jquery\src\core\parseHTML.js" />
+    <Content Include="Libs\bower_components\jquery\src\core\ready.js" />
+    <Content Include="Libs\bower_components\jquery\src\core\var\rsingleTag.js" />
+    <Content Include="Libs\bower_components\jquery\src\css.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\addGetHookIf.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\curCSS.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\defaultDisplay.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\hiddenVisibleSelectors.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\support.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\swap.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\var\cssExpand.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\var\getStyles.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\var\isHidden.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\var\rmargin.js" />
+    <Content Include="Libs\bower_components\jquery\src\css\var\rnumnonpx.js" />
+    <Content Include="Libs\bower_components\jquery\src\data.js" />
+    <Content Include="Libs\bower_components\jquery\src\data\accepts.js" />
+    <Content Include="Libs\bower_components\jquery\src\data\Data.js" />
+    <Content Include="Libs\bower_components\jquery\src\data\var\data_priv.js" />
+    <Content Include="Libs\bower_components\jquery\src\data\var\data_user.js" />
+    <Content Include="Libs\bower_components\jquery\src\deferred.js" />
+    <Content Include="Libs\bower_components\jquery\src\deprecated.js" />
+    <Content Include="Libs\bower_components\jquery\src\dimensions.js" />
+    <Content Include="Libs\bower_components\jquery\src\effects.js" />
+    <Content Include="Libs\bower_components\jquery\src\effects\animatedSelector.js" />
+    <Content Include="Libs\bower_components\jquery\src\effects\Tween.js" />
+    <Content Include="Libs\bower_components\jquery\src\event.js" />
+    <Content Include="Libs\bower_components\jquery\src\event\alias.js" />
+    <Content Include="Libs\bower_components\jquery\src\event\support.js" />
+    <Content Include="Libs\bower_components\jquery\src\exports\amd.js" />
+    <Content Include="Libs\bower_components\jquery\src\exports\global.js" />
+    <Content Include="Libs\bower_components\jquery\src\intro.js" />
+    <Content Include="Libs\bower_components\jquery\src\jquery.js" />
+    <Content Include="Libs\bower_components\jquery\src\manipulation.js" />
+    <Content Include="Libs\bower_components\jquery\src\manipulation\support.js" />
+    <Content Include="Libs\bower_components\jquery\src\manipulation\var\rcheckableType.js" />
+    <Content Include="Libs\bower_components\jquery\src\manipulation\_evalUrl.js" />
+    <Content Include="Libs\bower_components\jquery\src\offset.js" />
+    <Content Include="Libs\bower_components\jquery\src\outro.js" />
+    <Content Include="Libs\bower_components\jquery\src\queue.js" />
+    <Content Include="Libs\bower_components\jquery\src\queue\delay.js" />
+    <Content Include="Libs\bower_components\jquery\src\selector-native.js" />
+    <Content Include="Libs\bower_components\jquery\src\selector-sizzle.js" />
+    <Content Include="Libs\bower_components\jquery\src\selector.js" />
+    <Content Include="Libs\bower_components\jquery\src\serialize.js" />
+    <Content Include="Libs\bower_components\jquery\src\sizzle\dist\sizzle.js" />
+    <Content Include="Libs\bower_components\jquery\src\sizzle\dist\sizzle.min.js" />
+    <Content Include="Libs\bower_components\jquery\src\traversing.js" />
+    <Content Include="Libs\bower_components\jquery\src\traversing\findFilter.js" />
+    <Content Include="Libs\bower_components\jquery\src\traversing\var\rneedsContext.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\arr.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\class2type.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\concat.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\hasOwn.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\indexOf.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\pnum.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\push.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\rnotwhite.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\slice.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\strundefined.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\support.js" />
+    <Content Include="Libs\bower_components\jquery\src\var\toString.js" />
+    <Content Include="Libs\bower_components\jquery\src\wrap.js" />
+    <Content Include="Libs\bower_components\kineticjs\doc-includes\ContainerParams.txt" />
+    <Content Include="Libs\bower_components\kineticjs\doc-includes\NodeParams.txt" />
+    <Content Include="Libs\bower_components\kineticjs\doc-includes\ShapeParams.txt" />
+    <Content Include="Libs\bower_components\kineticjs\Gruntfile.js" />
+    <Content Include="Libs\bower_components\kineticjs\kinetic.js" />
+    <Content Include="Libs\bower_components\kineticjs\kinetic.min.js" />
+    <Content Include="Libs\bower_components\kineticjs\nodejs-demo.js" />
+    <Content Include="Libs\bower_components\kineticjs\server.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Animation.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\BaseLayer.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Canvas.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Container.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Context.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\DragAndDrop.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Factory.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\FastLayer.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Blur.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Brighten.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Emboss.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Enhance.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Grayscale.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\HSL.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\HSV.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Invert.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Kaleidoscope.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Mask.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Noise.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Pixelate.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Posterize.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\RGB.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Sepia.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Solarize.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\filters\Threshold.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Global.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Group.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Layer.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Node.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\plugins\Label.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\plugins\Path.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\plugins\RegularPolygon.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\plugins\Star.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\plugins\TextPath.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Shape.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Arc.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Circle.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Ellipse.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Image.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Line.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Rect.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Ring.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Sprite.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Text.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\shapes\Wedge.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Stage.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Tween.js" />
+    <Content Include="Libs\bower_components\kineticjs\src\Util.js" />
+    <Content Include="Libs\bower_components\raphael\dev\amdDev.js" />
+    <Content Include="Libs\bower_components\raphael\dev\require.js" />
+    <Content Include="Libs\bower_components\raphael\license.txt" />
+    <Content Include="Libs\bower_components\raphael\raphael-min.js" />
+    <Content Include="Libs\bower_components\raphael\raphael.js" />
+    <Content Include="Scripts\superMario.js" />
+    <Content Include="style.css" />
+    <Content Include="SuperMario.html" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>16766</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:16766/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

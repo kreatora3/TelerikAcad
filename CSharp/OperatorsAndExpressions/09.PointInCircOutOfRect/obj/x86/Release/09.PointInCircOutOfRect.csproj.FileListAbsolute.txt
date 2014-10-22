@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\09.PointInCircOutOfRect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\09.PointInCircOutOfRect\bin\Release\09.PointInCircOutOfRect.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\09.PointInCircOutOfRect\bin\Release\09.PointInCircOutOfRect.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\09.PointInCircOutOfRect\obj\x86\Release\09.PointInCircOutOfRect.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\09.PointInCircOutOfRect\obj\x86\Release\09.PointInCircOutOfRect.pdb

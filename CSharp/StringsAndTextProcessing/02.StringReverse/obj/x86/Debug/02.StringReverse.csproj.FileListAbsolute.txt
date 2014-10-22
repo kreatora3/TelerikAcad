@@ -1,0 +1,5 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\02.StringReverse\bin\Debug\02.StringReverse.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\02.StringReverse\bin\Debug\02.StringReverse.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\02.StringReverse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\02.StringReverse\obj\x86\Debug\02.StringReverse.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\02.StringReverse\obj\x86\Debug\02.StringReverse.pdb

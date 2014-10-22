@@ -1,0 +1,10 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\bin\Debug\ATM.Models.dll.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\bin\Debug\ATM.Models.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\bin\Debug\ATM.Models.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\bin\Debug\EntityFramework.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\bin\Debug\EntityFramework.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\obj\Debug\ATM.Models.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\obj\Debug\ATM.Models.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DatabaseTransactions\DatabseTransactions\ATM.Models\obj\Debug\ATM.Models.pdb

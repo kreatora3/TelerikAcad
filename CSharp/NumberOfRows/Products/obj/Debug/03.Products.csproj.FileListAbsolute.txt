@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Products\bin\Debug\Products.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Products\bin\Debug\Products.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Products\bin\Debug\Products.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Products\obj\Debug\03.Products.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Products\obj\Debug\Products.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Products\obj\Debug\Products.pdb

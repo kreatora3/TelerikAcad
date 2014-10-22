@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFireworks\JSFireworks\bin\JSFireworks.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFireworks\JSFireworks\bin\JSFireworks.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFireworks\JSFireworks\bin\JSFireworks.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFireworks\JSFireworks\obj\Debug\JSFireworks.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFireworks\JSFireworks\obj\Debug\JSFireworks.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFireworks\JSFireworks\obj\Debug\JSFireworks.pdb

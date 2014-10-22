@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1.DurankulakNumbers\bin\Debug\1.DurankulakNumbers.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1.DurankulakNumbers\bin\Debug\1.DurankulakNumbers.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1.DurankulakNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1.DurankulakNumbers\obj\x86\Debug\1.DurankulakNumbers.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1.DurankulakNumbers\obj\x86\Debug\1.DurankulakNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.JorotheRabbit\bin\Debug\2.JorotheRabbit.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.JorotheRabbit\bin\Debug\2.JorotheRabbit.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.JorotheRabbit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.JorotheRabbit\obj\x86\Debug\2.JorotheRabbit.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.JorotheRabbit\obj\x86\Debug\2.JorotheRabbit.pdb

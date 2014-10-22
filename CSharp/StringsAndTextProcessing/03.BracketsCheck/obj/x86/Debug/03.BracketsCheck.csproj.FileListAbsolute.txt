@@ -1,0 +1,5 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\03.BracketsCheck\bin\Debug\03.BracketsCheck.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\03.BracketsCheck\bin\Debug\03.BracketsCheck.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\03.BracketsCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\03.BracketsCheck\obj\x86\Debug\03.BracketsCheck.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\03.BracketsCheck\obj\x86\Debug\03.BracketsCheck.pdb

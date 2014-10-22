@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSArrays\JSArrays\bin\JSArrays.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSArrays\JSArrays\bin\JSArrays.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSArrays\JSArrays\bin\JSArrays.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSArrays\JSArrays\obj\Debug\JSArrays.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSArrays\JSArrays\obj\Debug\JSArrays.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSArrays\JSArrays\obj\Debug\JSArrays.pdb

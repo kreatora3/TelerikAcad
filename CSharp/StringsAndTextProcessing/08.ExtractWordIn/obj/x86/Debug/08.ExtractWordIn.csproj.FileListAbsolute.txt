@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\08.ExtractWordIn\bin\Debug\08.ExtractWordIn.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\08.ExtractWordIn\bin\Debug\08.ExtractWordIn.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\08.ExtractWordIn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\08.ExtractWordIn\obj\x86\Debug\08.ExtractWordIn.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\08.ExtractWordIn\obj\x86\Debug\08.ExtractWordIn.pdb

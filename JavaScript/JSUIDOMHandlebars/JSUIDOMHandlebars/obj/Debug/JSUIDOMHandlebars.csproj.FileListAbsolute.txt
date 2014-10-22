@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMHandlebars\JSUIDOMHandlebars\bin\JSUIDOMHandlebars.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMHandlebars\JSUIDOMHandlebars\bin\JSUIDOMHandlebars.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMHandlebars\JSUIDOMHandlebars\bin\JSUIDOMHandlebars.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMHandlebars\JSUIDOMHandlebars\obj\Debug\JSUIDOMHandlebars.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMHandlebars\JSUIDOMHandlebars\obj\Debug\JSUIDOMHandlebars.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMHandlebars\JSUIDOMHandlebars\obj\Debug\JSUIDOMHandlebars.pdb

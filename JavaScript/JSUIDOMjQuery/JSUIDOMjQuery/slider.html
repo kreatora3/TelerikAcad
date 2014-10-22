@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="libs/jquery-2.1.1.min.js"></script>
+    <style>
+        div, button {
+            margin: 0;
+            padding: 0;
+        }
+
+        body{
+            padding: 100px 300px;
+            background-color:gainsboro;
+        }
+        .clearfix {
+            clear: both;
+            display: block;
+            height: 0;
+            visibility: hidden;       
+        }
+
+        #pink{
+            background-color: pink;
+        }
+
+        #blue{
+            background-color: blue;
+        }
+
+        #black{
+            background-color: black;
+        }
+
+        #red{
+            background-color: red;
+        }
+
+        #green{
+            background-color: green;
+        }
+
+        #container{
+            position:relative;
+        }
+
+        #container div{
+            position:absolute;
+        }
+    </style>
+</head>
+<body>
+    <!-- html code here -->
+    <button class="buton" id="prev">Previous</button>
+    <div id="container">
+        <div id="pink"></div>
+        <div id="blue"></div>
+        <div id="black"></div>
+        <div id="red"></div>
+        <div id="green"></div>
+
+    </div>
+    <button class="buton" id="next">Next</button>
+    <p class="clearfix"></p>
+    <button id="toggleSlideShow">Slide Show </button>
+
+    <script src="scripts/sliderscript.js"></script>
+</body>
+</html>

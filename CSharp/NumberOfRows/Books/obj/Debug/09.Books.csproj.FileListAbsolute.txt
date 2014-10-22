@@ -1,0 +1,7 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Books\bin\Debug\Books.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Books\obj\Debug\Books.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Books\obj\Debug\Books.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Books\bin\Debug\Books.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Books\bin\Debug\Books.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Books\bin\Debug\MySql.Data.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\Books\obj\Debug\09.Books.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\05.HexToBin\bin\Debug\05.HexToBin.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\05.HexToBin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\05.HexToBin\obj\x86\Debug\05.HexToBin.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\05.HexToBin\obj\x86\Debug\05.HexToBin.pdb

@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DOM Module</title>    
+    <script src="Scripts/domModule.js"></script>
+    <link href="Styles/styleDOM.css" rel="stylesheet" />
+</head>
+<body>
+    <p>
+        Create a module for working with DOM. The module should have the following functionality<br />
+        Add DOM element to parent element given by selector<br />
+        Remove element from the DOM  by given selector<br />
+        Attach event to given selector by given event type and event hander<br />
+        Add elements to buffer, which appends them to the DOM when their count for some selector becomes 100<br />
+        The buffer contains elements for each selector it gets<br />
+        Get elements by CSS selector<br />
+    </p>
+
+    <ul>
+        <li>First &lt;li></li>
+        <li>Second &lt;li></li>
+        <li>Third &lt;li></li>
+        <li>Fourth &lt;li></li>
+        <li>Fifth &lt;li></li>
+        <li>Sixth &lt;li></li>
+        <li>Seventh &lt;li></li>
+        <li>Eighth &lt;li></li>
+    </ul>
+
+    <button id="fill-buffer">Click to add </button>
+    <button id="remove-first-li">Click to remove the first &lt;li></button>
+
+    <div id="test-div"></div>
+
+    <button class="button-test">Click</button>    
+
+    <script src="Scripts/domMain.js"></script>
+</body>
+</html>

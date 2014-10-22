@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\02. FloatOrDouble\bin\Release\_02.FloatOrDouble.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\02. FloatOrDouble\bin\Release\_02.FloatOrDouble.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\02. FloatOrDouble\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\02. FloatOrDouble\obj\x86\Release\_02.FloatOrDouble.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\02. FloatOrDouble\obj\x86\Release\_02.FloatOrDouble.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\02. FloatOrDouble\obj\x86\Release\_02.FloatOrDouble.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\02. FloatOrDouble\obj\x86\Release\_02.FloatOrDouble.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\02. FloatOrDouble\bin\Release\_02.FloatOrDouble.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\02. FloatOrDouble\bin\Release\_02.FloatOrDouble.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\02. FloatOrDouble\obj\x86\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMRaphael\JSUIDOMRaphael\bin\JSUIDOMRaphael.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMRaphael\JSUIDOMRaphael\bin\JSUIDOMRaphael.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMRaphael\JSUIDOMRaphael\bin\JSUIDOMRaphael.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMRaphael\JSUIDOMRaphael\obj\Debug\JSUIDOMRaphael.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMRaphael\JSUIDOMRaphael\obj\Debug\JSUIDOMRaphael.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMRaphael\JSUIDOMRaphael\obj\Debug\JSUIDOMRaphael.pdb

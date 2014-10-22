@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students xmlns="urn:students">
+  <student>
+    <name>Pesho</name>
+    <gender>uknonwn</gender>
+    <birth-date>years ago</birth-date>
+    <phone>123456</phone>
+    <email>pesho@pesho.mail.com.bg.uk.co.aol</email>
+    <course>2</course>
+    <specialty>best one</specialty>
+    <faculty-number>like the phone number</faculty-number>
+  
+    <exams>
+      <exam>
+        <name>Staring at one point</name>
+        <tutor>Bai daskal</tutor>
+        <score>max possible ++</score>
+        <name>Inserting finger in the nose</name>
+        <tutor>Bai daskal</tutor>
+        <score>max possible ++</score>
+      </exam>
+    </exams>
+       </student>
+    <enrollmentInfo>
+      <date>20.02.2002</date>
+      <examScore>99.00</examScore>
+    </enrollmentInfo>
+    <teacherEndorsements>
+      <endorsement>Very promising.</endorsement>
+    </teacherEndorsements>
+ 
+</students>

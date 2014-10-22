@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOM\JSUIDOM\bin\JSUIDOM.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOM\JSUIDOM\bin\JSUIDOM.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOM\JSUIDOM\bin\JSUIDOM.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOM\JSUIDOM\obj\Debug\JSUIDOM.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOM\JSUIDOM\obj\Debug\JSUIDOM.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOM\JSUIDOM\obj\Debug\JSUIDOM.pdb

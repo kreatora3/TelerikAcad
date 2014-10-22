@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\bin\Debug\GSM.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\bin\Debug\GSM.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\bin\Debug\GSM.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\obj\Debug\GSM.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\obj\Debug\GSM.pdb

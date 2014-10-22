@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. KaspichanNumbers\bin\Debug\_1.KaspichanNumbers.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. KaspichanNumbers\bin\Debug\_1.KaspichanNumbers.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. KaspichanNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. KaspichanNumbers\obj\x86\Debug\_1.KaspichanNumbers.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\1. KaspichanNumbers\obj\x86\Debug\_1.KaspichanNumbers.pdb

@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Using objects</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="Scripts/01.PointObject.js"></script>
+    <script src="Scripts/02.RemoveObjects.js"></script>
+    <script src="Scripts/03.DeepCopy.js"></script>
+    <script src="Scripts/04.PropertyCheck.js"></script>
+    <script src="Scripts/05.ShowYoungest.js"></script>
+    <script src="Scripts/06.GroupPerson.js"></script>
+</head>
+<body>
+    <p>
+        01.Write functions for working with shapes in  standard Planar coordinate system
+        <br />
+        Points are represented by coordinates P(X, Y)
+        <br />
+        Lines are represented by two points, marking their beginning and ending
+        <br />
+        L(P1(X1,Y1), P2(X2,Y2))
+        <br />
+        Calculate the distance between two points
+        <br />
+        Check if three segment lines can form a triangle
+    </p>
+    <form>
+        <p>Line 1</p>
+        X1<input type="text" name="x1" class="smallBox" />
+        Y1<input type="text" name="y1" class="smallBox" />
+        <br />
+        X2<input type="text" name="x2" class="smallBox" />
+        Y2<input type="text" name="y2" class="smallBox" />
+        <br />
+        <p>Line 2</p>
+        X1<input type="text" name="x12" class="smallBox" />
+        Y1<input type="text" name="y12" class="smallBox" />
+        <br />
+        X2<input type="text" name="x22" class="smallBox" />
+        Y2<input type="text" name="y22" class="smallBox" />
+        <br />
+        <p>Line 3</p>
+        X1<input type="text" name="x13" class="smallBox" />
+        Y1<input type="text" name="y13" class="smallBox" />
+        <br />
+        X2<input type="text" name="x23" class="smallBox" />
+        Y2<input type="text" name="y23" class="smallBox" />
+        <br />
+        <input type="button" value="Calculate&Check" onclick="calculateDistance(this.form)" />
+    </form>
+    <div id="result1"></div>
+    <p>
+        02.Write a function that removes all elements with a given value
+        <br />
+        var arr = [1,2,1,4,1,3,4,1,111,3,2,1,'1'];
+        <br />
+        arr.remove(1); //arr = [2,4,3,4,111,3,2,'1'];
+        <br />
+        Attach it to the array type
+        <br />
+        Read about prototype and how to attach methods
+    </p>
+    <form>
+        <input type="text" name="array" placeholder="Enter array" />
+        <input type="text" name="element" placeholder="Elemenent to remove" />
+        <input type="button" value="Remove" onclick="test(this.form)" />
+    </form>
+    <div id="result2"></div>
+    <p>
+        03.Write a function that makes a deep copy of an object
+        The function should work for both primitive and reference types
+    </p>
+    <form>
+        <input type="text" name="name" placeholder="Enter name" />
+        <input type="text" name="age" placeholder="Enter age" />
+        <input type="button" value="Deepcopy that" onclick="objectCopy(this.form)" />
+    </form>
+    <div id="result3"></div>
+    <p>
+        04.Write a function that checks if a given object contains a given property
+    </p>
+    <form>
+        <input type="text" name="name" placeholder="name property" />
+        <input type="text" name="age" placeholder="age property" />
+        <input type="text" name="search" placeholder="Search property" />
+        <input type="button" value="Check" onclick="propertyCheck(this.form)" />
+    </form>
+    <div id="result4"></div>
+    <p>
+        05.Write a function that finds the youngest person in a given array of persons and prints his/hers full name
+        <br />
+        Each person have properties firstname, lastname and age, as shown:
+        <br />
+        var persons = [
+        <br />
+        { firstname : 'Gosho', lastname: 'Petrov', age: 32 },
+        <br />
+        { firstname : 'Bay', lastname: 'Ivan', age: 81},… ];
+    </p>
+    <form>
+        First person:
+        <br />
+        <input type="text" name="firstName1" placeholder="Enter firstname..." />
+        <input type="text" name="lastName1" placeholder="Enter lastname..." />
+        <input type="text" name="age1" placeholder="Enter age..." />
+        <br />
+        Second person:
+        <br />
+        <input type="text" name="firstName2" placeholder="Enter firstname..." />
+        <input type="text" name="lastName2" placeholder="Enter lastname..." />
+        <input type="text" name="age2" placeholder="Enter age..." />
+        <br />
+        Third person:
+        <br />
+        <input type="text" name="firstName3" placeholder="Enter firstname..." />
+        <input type="text" name="lastName3" placeholder="Enter lastname..." />
+        <input type="text" name="age3" placeholder="Enter age..." />
+        <br />
+        <input type="button" value="Youngest" onclick="showYoungest(this.form)" />
+    </form>
+    <div id="result5"></div>
+    <p>
+        06.Write a function that groups an array of persons by age, first or last name.<br />
+        The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups<br />
+        Use function overloading (i.e. just one function)<br />
+        var persons = {…};<br />
+        var groupedByFname = group(persons, 'firstname');<br />
+        var groupedByAge= group(persons, 'age');
+    </p>
+    <form>
+        First person:
+        <br />
+        <input type="text" name="firstName1" placeholder="Enter firstname..." />
+        <input type="text" name="lastName1" placeholder="Enter lastname..." />
+        <input type="text" name="age1" placeholder="Enter age..." />
+        <br />
+        Second person:
+        <br />
+        <input type="text" name="firstName2" placeholder="Enter firstname..." />
+        <input type="text" name="lastName2" placeholder="Enter lastname..." />
+        <input type="text" name="age2" placeholder="Enter age..." />
+        <br />
+        Third person:
+        <br />
+        <input type="text" name="firstName3" placeholder="Enter firstname..." />
+        <input type="text" name="lastName3" placeholder="Enter lastname..." />
+        <input type="text" name="age3" placeholder="Enter age..." />
+        <br />
+        <span>*Type firstname, lastname or age</span>
+        <input type="text"  name="property"  placeholder="SortBy..."  />
+        <input type="button" value="Sort" onclick="groupByProperty(this.form)" />
+    </form>
+    <div id="result6"></div>
+</body>
+</html>

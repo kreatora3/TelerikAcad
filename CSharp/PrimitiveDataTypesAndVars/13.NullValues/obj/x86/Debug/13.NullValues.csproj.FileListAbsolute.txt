@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\13.NullValues\bin\Debug\13.NullValues.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\13.NullValues\bin\Debug\13.NullValues.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\13.NullValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\13.NullValues\obj\x86\Debug\13.NullValues.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\13.NullValues\obj\x86\Debug\13.NullValues.pdb

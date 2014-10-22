@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\22.CountingWords\bin\Debug\22.CountingWords.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\22.CountingWords\bin\Debug\22.CountingWords.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\22.CountingWords\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\22.CountingWords\obj\x86\Debug\22.CountingWords.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\22.CountingWords\obj\x86\Debug\22.CountingWords.pdb

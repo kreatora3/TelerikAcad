@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\NumeralSystems\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\NumeralSystems\01.DecimalToBinary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\NumeralSystems\01.DecimalToBinary\obj\x86\Debug\01.DecimalToBinary.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\NumeralSystems\01.DecimalToBinary\obj\x86\Debug\01.DecimalToBinary.pdb

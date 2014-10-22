@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Conditional Statements</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="Scripts/01.ExchangeNumbers.js"></script>
+    <script src="Scripts/02.ShowSign.js"></script>
+    <script src="Scripts/03.BiggestOfThree.js"></script>
+    <script src="Scripts/04.DescendingOrder.js"></script>
+    <script src="Scripts/05.ReadDigit.js"></script>
+    <script src="Scripts/06.QuadraticEquatation.js"></script>
+    <script src="Scripts/07.GreatestOfFive.js"></script>
+    <script src="Scripts/08.NumberRead.js"></script>
+</head>
+<body>
+    <p>
+        01.Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.
+    </p>
+    <form>
+        <input type="text" name="int" placeholder="Enter 1st number..." />
+        <input type="text" name="secondInt" placeholder="Enter 2nd number..." />
+        <input type="button" value="Click it" onclick="exchangeNums(this.form)" />
+    </form>
+    <div id="result1"></div>
+
+    <p>
+        02.Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements.
+    </p>
+    <form>
+        <input type="text" name="int" placeholder="Enter 1st number..." />
+        <input type="text" name="secondInt" placeholder="Enter 2nd number..." />
+        <input type="text" name="thirdInt" placeholder="Enter 3rd number..." />
+        <input type="button" value="Show sign" onclick="signFinder(this.form)" />
+    </form>
+    <div id="result2"></div>
+
+    <p>
+        03.Write a script that finds the biggest of three integers using nested if statements.
+    </p>
+    <form>
+        <input type="text" name="int" placeholder="Enter 1st number..." />
+        <input type="text" name="secondInt" placeholder="Enter 2nd number..." />
+        <input type="text" name="thirdInt" placeholder="Enter 3rd number..." />
+        <input type="button" value="Biggest is ..." onclick="biggestOfThree(this.form)" />
+    </form>
+    <div id="result3"></div>
+
+    <p>
+        04.Sort 3 real values in descending order using nested if statements.
+    </p>
+    <form>
+        <input type="text" name="int" placeholder="Enter 1st number..." />
+        <input type="text" name="secondInt" placeholder="Enter 2nd number..." />
+        <input type="text" name="thirdInt" placeholder="Enter 3rd number..." />
+        <input type="button" value="Sort now" onclick="orderDescending(this.form)" />
+    </form>
+    <div id="result4"></div>
+
+    <p>
+        05.Write script that asks for a digit and depending on the input shows the name of that digit (in English) using a switch statement.
+    </p>
+    <span>*Enter digit 0 to 9</span>
+    <form>
+        <input type="text" name="int" placeholder="Enter number..." />
+        <input type="button" value="Read it" onclick="readDigit(this.form)" />
+    </form>
+    <div id="result5"></div>
+
+    <p>
+        06.Write a script that enters the coefficients a, b and c of a quadratic equation
+        a*x2 + b*x + c = 0
+        and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots.
+    </p>
+    <form>
+        <input type="text" name="int" placeholder="Enter 1st number..." />
+        <input type="text" name="secondInt" placeholder="Enter 2nd number..." />
+        <input type="text" name="thirdInt" placeholder="Enter 3rd number..." />
+        <input type="button" value="Calculate" onclick="quadEquatSolver(this.form)" />
+    </form>
+    <div id="result6"></div>
+
+    <p>
+        07.Write a script that finds the greatest of given 5 variables.
+    </p>
+    <form>
+        <input type="text" name="int" placeholder="Enter 1st number..." />
+        <input type="text" name="secondInt" placeholder="Enter 2nd number..." />
+        <input type="text" name="thirdInt" placeholder="Enter 3rd number..." />
+        <br />
+        <input type="text" name="fourthInt" placeholder="Enter 4th number..." />
+        <input type="text" name="fifthInt" placeholder="Enter 5th number..." />
+        <input type="button" value="Greatest is..." onclick="greatestNum(this.form)" />
+    </form>
+    <div id="result7"></div>
+
+    <p>
+        08.Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation. Examples:
+        0  'Zero'
+        273  'Two hundred seventy three'
+        400  'Four hundred'
+        501  'Five hundred and one'
+        711  'Seven hundred and eleven'
+    </p>
+    <form>
+        <input type="text" name="int" placeholder="Enter number..." />
+        <input type="button" value="Read it" onclick="read(this.form)" />
+    </form>
+
+    <div id="result8"></div>
+</body>
+</html>

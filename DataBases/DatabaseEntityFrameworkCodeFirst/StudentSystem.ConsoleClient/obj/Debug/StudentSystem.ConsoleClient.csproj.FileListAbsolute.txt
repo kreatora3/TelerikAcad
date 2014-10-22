@@ -1,0 +1,14 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Model.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\JSUIDOMKineticJS\FamilyTree\bin\FamilyTree.dll.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\JSUIDOMKineticJS\FamilyTree\bin\FamilyTree.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\JSUIDOMKineticJS\FamilyTree\bin\FamilyTree.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\JSUIDOMKineticJS\FamilyTree\obj\Debug\FamilyTree.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\JSUIDOMKineticJS\FamilyTree\obj\Debug\FamilyTree.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\JSUIDOMKineticJS\FamilyTree\obj\Debug\FamilyTree.pdb

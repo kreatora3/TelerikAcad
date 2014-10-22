@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\23.IdenticalLetters\bin\Debug\23.IdenticalLetters.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\23.IdenticalLetters\bin\Debug\23.IdenticalLetters.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\23.IdenticalLetters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\23.IdenticalLetters\obj\x86\Debug\23.IdenticalLetters.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\23.IdenticalLetters\obj\x86\Debug\23.IdenticalLetters.pdb

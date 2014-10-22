@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\07.SomeStringsAndObject\bin\Release\07.SomeStringsAndObject.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\07.SomeStringsAndObject\bin\Release\07.SomeStringsAndObject.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\07.SomeStringsAndObject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\07.SomeStringsAndObject\obj\x86\Release\07.SomeStringsAndObject.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\07.SomeStringsAndObject\obj\x86\Release\07.SomeStringsAndObject.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\07.SomeStringsAndObject\obj\x86\Release\07.SomeStringsAndObject.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\07.SomeStringsAndObject\obj\x86\Release\07.SomeStringsAndObject.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\07.SomeStringsAndObject\bin\Release\07.SomeStringsAndObject.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\07.SomeStringsAndObject\bin\Release\07.SomeStringsAndObject.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\07.SomeStringsAndObject\obj\x86\Release\ResolveAssemblyReference.cache

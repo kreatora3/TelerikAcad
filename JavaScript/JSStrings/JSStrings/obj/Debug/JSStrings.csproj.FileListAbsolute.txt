@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSStrings\JSStrings\bin\JSStrings.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSStrings\JSStrings\bin\JSStrings.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSStrings\JSStrings\bin\JSStrings.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSStrings\JSStrings\obj\Debug\JSStrings.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSStrings\JSStrings\obj\Debug\JSStrings.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSStrings\JSStrings\obj\Debug\JSStrings.pdb

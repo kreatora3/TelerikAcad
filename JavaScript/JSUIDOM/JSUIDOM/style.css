@@ -1,0 +1,22 @@
+﻿.resultDivs{
+    display:inline-block;
+    width: 200px;
+    background-color: #000;
+    color: #fff;
+}
+
+div > div p{
+    color: red;
+}
+
+section p{
+    color:blue;
+}
+
+body >p, body >ul {
+    font-weight:bold;
+}
+
+button{
+    display:block;
+}

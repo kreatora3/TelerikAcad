@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSDataTypesAndVariables\JSDataTypesAndVariables\bin\JSDataTypesAndVariables.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSDataTypesAndVariables\JSDataTypesAndVariables\bin\JSDataTypesAndVariables.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSDataTypesAndVariables\JSDataTypesAndVariables\bin\JSDataTypesAndVariables.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSDataTypesAndVariables\JSDataTypesAndVariables\obj\Debug\JSDataTypesAndVariables.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSDataTypesAndVariables\JSDataTypesAndVariables\obj\Debug\JSDataTypesAndVariables.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSDataTypesAndVariables\JSDataTypesAndVariables\obj\Debug\JSDataTypesAndVariables.pdb

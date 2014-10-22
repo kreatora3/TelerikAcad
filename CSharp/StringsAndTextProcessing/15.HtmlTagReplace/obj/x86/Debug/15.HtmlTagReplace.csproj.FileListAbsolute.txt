@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\15.HtmlTagReplace\bin\Debug\15.HtmlTagReplace.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\15.HtmlTagReplace\bin\Debug\15.HtmlTagReplace.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\15.HtmlTagReplace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\15.HtmlTagReplace\obj\x86\Debug\15.HtmlTagReplace.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\15.HtmlTagReplace\obj\x86\Debug\15.HtmlTagReplace.pdb

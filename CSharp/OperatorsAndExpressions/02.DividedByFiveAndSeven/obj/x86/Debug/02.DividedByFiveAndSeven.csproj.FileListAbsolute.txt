@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\02.DividedByFiveAndSeven\bin\Debug\02.DividedByFiveAndSeven.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\02.DividedByFiveAndSeven\bin\Debug\02.DividedByFiveAndSeven.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\02.DividedByFiveAndSeven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\02.DividedByFiveAndSeven\obj\x86\Debug\02.DividedByFiveAndSeven.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\02.DividedByFiveAndSeven\obj\x86\Debug\02.DividedByFiveAndSeven.pdb

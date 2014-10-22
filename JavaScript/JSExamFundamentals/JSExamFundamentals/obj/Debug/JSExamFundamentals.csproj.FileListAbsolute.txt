@@ -1,0 +1,6 @@
+C:\Users\kreatora3\documents\visual studio 2013\Projects\JSExamFundamentals\JSExamFundamentals\bin\JSExamFundamentals.dll.config
+C:\Users\kreatora3\documents\visual studio 2013\Projects\JSExamFundamentals\JSExamFundamentals\bin\JSExamFundamentals.dll
+C:\Users\kreatora3\documents\visual studio 2013\Projects\JSExamFundamentals\JSExamFundamentals\bin\JSExamFundamentals.pdb
+C:\Users\kreatora3\documents\visual studio 2013\Projects\JSExamFundamentals\JSExamFundamentals\obj\Debug\JSExamFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\documents\visual studio 2013\Projects\JSExamFundamentals\JSExamFundamentals\obj\Debug\JSExamFundamentals.dll
+C:\Users\kreatora3\documents\visual studio 2013\Projects\JSExamFundamentals\JSExamFundamentals\obj\Debug\JSExamFundamentals.pdb

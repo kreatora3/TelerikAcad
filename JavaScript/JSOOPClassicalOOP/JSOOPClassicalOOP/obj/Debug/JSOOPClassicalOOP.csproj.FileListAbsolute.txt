@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPClassicalOOP\JSOOPClassicalOOP\bin\JSOOPClassicalOOP.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPClassicalOOP\JSOOPClassicalOOP\bin\JSOOPClassicalOOP.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPClassicalOOP\JSOOPClassicalOOP\bin\JSOOPClassicalOOP.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPClassicalOOP\JSOOPClassicalOOP\obj\Debug\JSOOPClassicalOOP.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPClassicalOOP\JSOOPClassicalOOP\obj\Debug\JSOOPClassicalOOP.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPClassicalOOP\JSOOPClassicalOOP\obj\Debug\JSOOPClassicalOOP.pdb

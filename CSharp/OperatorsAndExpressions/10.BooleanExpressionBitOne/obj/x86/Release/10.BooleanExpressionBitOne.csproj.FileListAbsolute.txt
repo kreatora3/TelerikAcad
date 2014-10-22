@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\10.BooleanExpressionBitOne\bin\Release\10.BooleanExpressionBitOne.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\10.BooleanExpressionBitOne\bin\Release\10.BooleanExpressionBitOne.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\10.BooleanExpressionBitOne\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\10.BooleanExpressionBitOne\obj\x86\Release\10.BooleanExpressionBitOne.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\10.BooleanExpressionBitOne\obj\x86\Release\10.BooleanExpressionBitOne.pdb

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSLoops\JSLoops\bin\JSLoops.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSLoops\JSLoops\bin\JSLoops.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSLoops\JSLoops\bin\JSLoops.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSLoops\JSLoops\obj\Debug\JSLoops.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSLoops\JSLoops\obj\Debug\JSLoops.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSLoops\JSLoops\obj\Debug\JSLoops.pdb

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSApplications\JSApplications\bin\JSApplications.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSApplications\JSApplications\bin\JSApplications.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSApplications\JSApplications\bin\JSApplications.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSApplications\JSApplications\obj\Debug\JSApplications.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSApplications\JSApplications\obj\Debug\JSApplications.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSApplications\JSApplications\obj\Debug\JSApplications.pdb

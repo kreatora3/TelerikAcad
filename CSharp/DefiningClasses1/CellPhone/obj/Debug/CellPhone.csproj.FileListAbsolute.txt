@@ -1,0 +1,14 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\bin\Debug\CellPhone.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\bin\Debug\CellPhone.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\bin\Debug\CellPhone.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\obj\Debug\CellPhone.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\TestSolution\GSM\obj\Debug\CellPhone.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\TestSolution\CellPhone\bin\Debug\CellPhone.exe.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\TestSolution\CellPhone\obj\Debug\CellPhone.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\TestSolution\CellPhone\obj\Debug\CellPhone.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DefiningClasses1\CellPhone\bin\Debug\CellPhone.exe.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DefiningClasses1\CellPhone\obj\Debug\CellPhone.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DefiningClasses1\CellPhone\obj\Debug\CellPhone.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DefiningClasses1\CellPhone\bin\Debug\CellPhone.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DefiningClasses1\CellPhone\bin\Debug\CellPhone.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\DefiningClasses1\CellPhone\obj\Debug\CellPhone.csprojResolveAssemblyReference.cache

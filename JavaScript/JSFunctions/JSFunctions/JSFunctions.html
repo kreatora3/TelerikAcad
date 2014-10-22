@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Functons</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="Scripts/01.ReadLastDigit.js"></script>
+    <script src="Scripts/02.ReverseNumber.js"></script>
+    <script src="Scripts/03.FuncOverloading.js"></script>
+    <script src="Scripts/04.CountDivs.js"></script>
+    <script src="Scripts/05.NumberCount.js"></script>
+    <script src="Scripts/06.BiggerNeighbours.js"></script>
+    <script src="Scripts/07.FirstBigger.js"></script>
+</head>
+<body>
+    <p>
+        01.Write a function that returns the last digit of given integer as an English word. Examples: 512  "two", 1024  "four", 12309  "nine"
+    </p>
+    <form>
+        <input type="text" name="num" placeholder="Enter number..." />
+        <input type="button" value="Read last digit" onclick="readLastDigit(this.form)" />
+    </form>
+    <div id="result1"></div>
+
+    <p>
+        02.Write a function that reverses the digits of given decimal number. Example: 256  652
+    </p>
+    <form>
+        <input type="text" name="num" placeholder="Enter number..." />
+        <input type="button" value="Reverse" onclick="reverseNumber(this.form)" />
+    </form>
+    <div id="result2"></div>
+
+    <p>
+        03.Write a function that finds all the occurrences of word in a text
+        <br />
+        The search can case sensitive or case insensitive
+        <br />
+        Use function overloading
+    </p>
+    <form>
+        <input type="text" name="text" placeholder="Enter text..." />
+        <input type="text" name="word" placeholder="Searched word" />
+        <input type="checkbox" name="checkBox" /> Case sensitive search <br />
+        <input type="button" value="Search" onclick="countWords(this.form)" />
+    </form>
+    <div id="result3"></div>
+    <p>
+        04.Write a function to count the number of divs on the web page
+    </p>
+    <form>
+        <input type="button" value="Count <div>" onclick="countDivs()" />
+    </form>
+    <div id="result4"></div>
+
+    <p>
+        05.Write a function that counts how many times given number appears in given array. Write a test function to check if the function is working correctly.
+    </p>
+    <form>
+        <input type="text" name="array" placeholder="Array entry here..." />
+        <input type="text" name="symbol" placeholder="Searched number..." />
+        <input type="button" value="Function test" onclick="test(this.form)" />
+    </form>
+    <div id="result5"></div>
+    <p>
+        06.Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).
+    </p>
+    <form>
+        <input type="text" name="array" placeholder="Array entry here..." />
+        <input type="text" name="index" placeholder="Enter index..." />
+        <input type="button" value="Function test" onclick="biggerThanNeighbours(this.form)" />
+    </form>
+    <div id="result6"></div>
+    <p>
+        07.Write a function that returns the index of the first element in array that is bigger than its neighbors, or -1, if there’s no such element.
+        Use the function from the previous exercise.
+    </p>
+    <form>
+        <input type="text" name="array" placeholder="Array entry here..." />
+        <input type="button" value="Return index" onclick="firstBigger(this.form)" />
+    </form>
+    <div id="result7"></div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\07.EncodeDecode\bin\Debug\07.EncodeDecode.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\07.EncodeDecode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\07.EncodeDecode\obj\x86\Debug\07.EncodeDecode.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\07.EncodeDecode\obj\x86\Debug\07.EncodeDecode.pdb

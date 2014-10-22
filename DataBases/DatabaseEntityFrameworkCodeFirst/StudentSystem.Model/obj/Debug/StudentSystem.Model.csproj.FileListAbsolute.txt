@@ -1,0 +1,5 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Model\bin\Debug\StudentSystem.Model.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Model\bin\Debug\StudentSystem.Model.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Model\obj\Debug\StudentSystem.Model.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Model\obj\Debug\StudentSystem.Model.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEntityFrameworkCodeFirst\StudentSystem.Model\obj\Debug\StudentSystem.Model.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\MultidimensionalArrays\01.FillingMatrix\bin\Release\01.FillingMatrix.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\MultidimensionalArrays\01.FillingMatrix\bin\Release\01.FillingMatrix.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\MultidimensionalArrays\01.FillingMatrix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\MultidimensionalArrays\01.FillingMatrix\obj\x86\Release\01.FillingMatrix.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\MultidimensionalArrays\01.FillingMatrix\obj\x86\Release\01.FillingMatrix.pdb

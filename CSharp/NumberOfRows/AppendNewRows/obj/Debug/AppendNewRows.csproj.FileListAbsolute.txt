@@ -1,0 +1,5 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AppendNewRows\bin\Debug\AppendNewRows.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AppendNewRows\bin\Debug\AppendNewRows.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AppendNewRows\bin\Debug\AppendNewRows.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AppendNewRows\obj\Debug\AppendNewRows.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\AppendNewRows\obj\Debug\AppendNewRows.pdb

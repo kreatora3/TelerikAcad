@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\07.ConvertAnyNumeral\bin\Release\07.ConvertAnyNumeral.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\07.ConvertAnyNumeral\bin\Release\07.ConvertAnyNumeral.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\07.ConvertAnyNumeral\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\07.ConvertAnyNumeral\obj\x86\Release\07.ConvertAnyNumeral.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\NumeralSystems\07.ConvertAnyNumeral\obj\x86\Release\07.ConvertAnyNumeral.pdb

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQueryPlugins\JSUIDOMjQueryPlugins\bin\JSUIDOMjQueryPlugins.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQueryPlugins\JSUIDOMjQueryPlugins\bin\JSUIDOMjQueryPlugins.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQueryPlugins\JSUIDOMjQueryPlugins\bin\JSUIDOMjQueryPlugins.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQueryPlugins\JSUIDOMjQueryPlugins\obj\Debug\JSUIDOMjQueryPlugins.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQueryPlugins\JSUIDOMjQueryPlugins\obj\Debug\JSUIDOMjQueryPlugins.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMjQueryPlugins\JSUIDOMjQueryPlugins\obj\Debug\JSUIDOMjQueryPlugins.pdb

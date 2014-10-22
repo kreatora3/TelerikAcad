@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOperatorsAndExpressions\JSOperatorsAndExpressions\bin\JSOperatorsAndExpressions.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOperatorsAndExpressions\JSOperatorsAndExpressions\bin\JSOperatorsAndExpressions.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOperatorsAndExpressions\JSOperatorsAndExpressions\bin\JSOperatorsAndExpressions.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOperatorsAndExpressions\JSOperatorsAndExpressions\obj\Debug\JSOperatorsAndExpressions.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOperatorsAndExpressions\JSOperatorsAndExpressions\obj\Debug\JSOperatorsAndExpressions.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOperatorsAndExpressions\JSOperatorsAndExpressions\obj\Debug\JSOperatorsAndExpressions.pdb

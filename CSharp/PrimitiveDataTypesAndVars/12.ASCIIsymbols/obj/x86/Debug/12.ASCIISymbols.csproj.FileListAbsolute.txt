@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\12.ASCIIsymbols\bin\Debug\12.ASCIIsymbols.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\12.ASCIIsymbols\bin\Debug\12.ASCIIsymbols.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\12.ASCIIsymbols\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\12.ASCIIsymbols\obj\x86\Debug\12.ASCIIsymbols.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\12.ASCIIsymbols\obj\x86\Debug\12.ASCIIsymbols.pdb

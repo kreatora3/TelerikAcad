@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\Shape\bin\Debug\Shape.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\Shape\bin\Debug\Shape.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\Shape\bin\Debug\Shape.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\Shape\obj\Debug\Shape.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\OOPPrinciplesPartTwo\Shape\obj\Debug\Shape.pdb

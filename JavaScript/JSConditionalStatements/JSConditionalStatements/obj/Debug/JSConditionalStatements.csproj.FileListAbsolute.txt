@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSConditionalStatements\JSConditionalStatements\bin\JSConditionalStatements.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSConditionalStatements\JSConditionalStatements\bin\JSConditionalStatements.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSConditionalStatements\JSConditionalStatements\bin\JSConditionalStatements.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSConditionalStatements\JSConditionalStatements\obj\Debug\JSConditionalStatements.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSConditionalStatements\JSConditionalStatements\obj\Debug\JSConditionalStatements.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSConditionalStatements\JSConditionalStatements\obj\Debug\JSConditionalStatements.pdb

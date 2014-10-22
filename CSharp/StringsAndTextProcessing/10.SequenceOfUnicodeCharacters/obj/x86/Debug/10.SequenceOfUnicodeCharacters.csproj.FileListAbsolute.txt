@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\10.SequenceOfUnicodeCharacters\bin\Debug\10.SequenceOfUnicodeCharacters.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\10.SequenceOfUnicodeCharacters\bin\Debug\10.SequenceOfUnicodeCharacters.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\10.SequenceOfUnicodeCharacters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\10.SequenceOfUnicodeCharacters\obj\x86\Debug\10.SequenceOfUnicodeCharacters.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\10.SequenceOfUnicodeCharacters\obj\x86\Debug\10.SequenceOfUnicodeCharacters.pdb

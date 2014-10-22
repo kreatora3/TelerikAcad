@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Arrays</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="Scripts/01.TwentyIntArr.js"></script>
+    <script src="Scripts/02.ArrayCompare.js"></script>
+    <script src="Scripts/03.MaxSequence.js"></script>
+    <script src="Scripts/04.IncreasingSequence.js"></script>
+    <script src="Scripts/05.SelectionSort.js"></script>
+    <script src="Scripts/06.MostFrequentNumber.js"></script>
+    <script src="Scripts/07.BinarySearch.js"></script>
+</head>
+<body>
+    <p>
+        01.Write a script that allocates array of 20 integers and initializes each element by its index multiplied by 5. Print the obtained array on the console.
+    </p>
+    <input type="button" value="Print Array" onclick="fillArr()" />
+    <div id="result1"></div>
+
+    <p>
+        02.Write a script that compares two char arrays lexicographically (letter by letter).
+    </p>
+    <form>
+        <input type="text" name="array1" placeholder="Enter some text" />
+        <input type="text" name="array2" placeholder="Enter some text" />
+        <input type="button" value="Compare" onclick="compare(this.form)" />
+    </form>
+    <div id="result2"></div>
+
+    <p>
+        03.Write a script that finds the maximal sequence of equal elements in an array.
+        <br />
+        Example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1}  {2, 2, 2}.
+    </p>
+
+    <form>
+        <input type="text" name="array" placeholder="Paste sequence..." />
+        <input type="button" value="Find sequence" onclick="sequenceFinder(this.form)" />
+    </form>
+    <div id="result3"></div>
+
+    <p>
+        04.Write a script that finds the maximal increasing sequence in an array. Example: {3, 2, 3, 4, 2, 2, 4}  {2, 3, 4}.
+    </p>
+
+    <form>
+        <input type="text" name="array" placeholder="Paste sequence..." />
+        <input type="button" value="Find sequence" onclick="increasingSequence(this.form)" />
+    </form>
+    <div id="result4"></div>
+
+    <p>
+        05.Sorting an array means to arrange its elements in increasing order. Write a script to sort an array. Use the "selection sort"
+        <br />
+        algorithm: Find the smallest element, move it at the first position, find the smallest from the rest,
+        <br />
+        move it at the second position, etc.Hint: Use a second array
+    </p>
+
+    <form>
+        <input type="text" name="array" placeholder="Paste sequence..." />
+        <input type="button" value="Selection Sort" onclick="selectionSort(this.form)" />
+    </form>
+    <div id="result5"></div>
+
+    <p>
+        06.Write a program that finds the most frequent number in an array. Example:
+        {4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3}  4 (5 times)
+    </p>
+    <form>
+        <input type="text" name="array" placeholder="Put symbols..." />
+        <input type="button" value="Most frequent is ..." onclick="mostFreqElement(this.form)" />
+    </form>
+    <div id="result6"></div>
+    <p>
+        07.Write a program that finds the index of given element in a sorted array of integers by using the binary search algorithm (find it in Wikipedia).
+    </p>
+    <form>
+        <input type="text" name="array" placeholder="Put symbols..." />
+        <input type="text" name="symbol" placeholder="Searched symbol..."/>
+        <input type="button" value="Index is ..." onclick="binarySearch(this.form)" />
+    </form>
+    <div id="result7"></div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\ToListQuery.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\ToListQuery.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\ToListQuery.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\EntityFramework.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\StudentSystem.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\StudentSystem.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\EntityFramework.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\obj\Debug\ToListQuery.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\obj\Debug\ToListQuery.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseEFPerformance\ToListQuery\obj\Debug\ToListQuery.pdb

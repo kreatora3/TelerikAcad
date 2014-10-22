@@ -1,0 +1,57 @@
+﻿div {
+    display:table-cell;
+    position:relative;
+    background-color:black;
+    color:white;
+    text-align:left;
+    vertical-align:middle;
+    font-size:20px;
+}
+
+.smallBox{
+    width:35px;
+    box-shadow:#808080 0.5px 0.5px inset;
+}
+
+p{
+    font-family:'Arial Black', Gadget, sans-serif;
+    font-size:16px;
+}
+
+span{
+    color:#ff0000;
+    font-style:italic;
+    font-family:Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-size:14px;
+}
+
+#blue{
+    color:#0d83d1;
+}
+  section {
+            
+            margin:1%;
+            display:inline-block;
+            width : 30%;
+            padding:5px;
+        }
+
+        #btnGenerate {
+            display:block;
+            margin-top:2%;
+            margin-left:1%;
+            width:64%;
+            height:40px;
+        }
+
+        #btnTemp {
+            display:inline-block;
+        }
+
+        h1 {
+            text-align:center;
+        }
+
+        section div {
+            display:inline-block;
+        }

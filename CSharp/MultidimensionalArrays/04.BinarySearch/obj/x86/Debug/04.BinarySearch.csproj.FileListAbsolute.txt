@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\MultidimensionalArrays\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\MultidimensionalArrays\04.BinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\MultidimensionalArrays\04.BinarySearch\obj\x86\Debug\04.BinarySearch.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\MultidimensionalArrays\04.BinarySearch\obj\x86\Debug\04.BinarySearch.pdb

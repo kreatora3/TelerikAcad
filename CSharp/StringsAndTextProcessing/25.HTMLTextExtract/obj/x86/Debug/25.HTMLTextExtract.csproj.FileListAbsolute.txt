@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\25.HTMLTextExtract\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\25.HTMLTextExtract\bin\Debug\25.HTMLTextExtract.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\25.HTMLTextExtract\bin\Debug\25.HTMLTextExtract.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\25.HTMLTextExtract\obj\x86\Debug\25.HTMLTextExtract.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\25.HTMLTextExtract\obj\x86\Debug\25.HTMLTextExtract.pdb

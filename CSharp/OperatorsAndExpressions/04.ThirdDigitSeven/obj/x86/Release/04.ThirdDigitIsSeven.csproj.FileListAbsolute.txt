@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\04.ThirdDigitSeven\bin\Release\04.New.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\04.ThirdDigitSeven\bin\Release\04.New.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\04.ThirdDigitSeven\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\04.ThirdDigitSeven\obj\x86\Release\04.New.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\OperatorsAndExpressions\04.ThirdDigitSeven\obj\x86\Release\04.New.pdb

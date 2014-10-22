@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMCanvas\JSUIDOMCanvas\bin\JSUIDOMCanvas.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMCanvas\JSUIDOMCanvas\bin\JSUIDOMCanvas.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMCanvas\JSUIDOMCanvas\bin\JSUIDOMCanvas.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMCanvas\JSUIDOMCanvas\obj\Debug\JSUIDOMCanvas.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMCanvas\JSUIDOMCanvas\obj\Debug\JSUIDOMCanvas.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMCanvas\JSUIDOMCanvas\obj\Debug\JSUIDOMCanvas.pdb

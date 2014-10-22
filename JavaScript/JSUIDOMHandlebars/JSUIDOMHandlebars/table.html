@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Table</title>
+    <link href="styles/tableStyle.css" rel="stylesheet" />   
+</head>
+<body>
+    <table class="course">
+        <thead>
+            <tr>
+                <th>№</th>
+                <th>Title</th>
+                <th>Date #1</th>
+                <th>Date #2</th>
+            </tr>
+        </thead>
+        <tbody id="templateroot"></tbody>
+    </table>
+
+    <script id="table-template" type="text/x-handlebars-template">
+        {{#course}}
+        <tr>
+            <td class="number">{{number}}</td>
+            <td class="title">{{title}}</td>
+            <td class="date">{{firstDate}}</td>
+            <td class="date">{{secondDate}}</td>
+        </tr>
+        {{/course}}
+
+    </script>
+    <script src="libs/handlebars.min.js"></script>
+    <script src="scripts/tablescript.js"></script>
+</body>
+</html>

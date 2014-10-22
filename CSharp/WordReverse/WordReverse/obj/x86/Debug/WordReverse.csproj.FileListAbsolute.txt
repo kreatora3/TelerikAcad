@@ -1,0 +1,10 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\WordReverse\WordReverse\bin\Debug\WordReverse.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\WordReverse\WordReverse\bin\Debug\WordReverse.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\WordReverse\WordReverse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\WordReverse\WordReverse\obj\x86\Debug\WordReverse.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\WordReverse\WordReverse\obj\x86\Debug\WordReverse.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\WordReverse\WordReverse\obj\x86\Debug\WordReverse.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\WordReverse\WordReverse\obj\x86\Debug\WordReverse.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\WordReverse\WordReverse\bin\Debug\WordReverse.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\WordReverse\WordReverse\bin\Debug\WordReverse.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\WordReverse\WordReverse\obj\x86\Debug\WordReverse.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUsingObjects\JSUsingObjects\bin\JSUsingObjects.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUsingObjects\JSUsingObjects\bin\JSUsingObjects.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUsingObjects\JSUsingObjects\bin\JSUsingObjects.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUsingObjects\JSUsingObjects\obj\Debug\JSUsingObjects.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUsingObjects\JSUsingObjects\obj\Debug\JSUsingObjects.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUsingObjects\JSUsingObjects\obj\Debug\JSUsingObjects.pdb

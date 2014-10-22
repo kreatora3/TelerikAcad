@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="Scripts/divSelectorQuery.js"></script>
+    <script src="Scripts/divSelectorTagName.js"></script>
+    <script src="Scripts/inputValue.js"></script>
+    <script src="Scripts/paintBody.js"></script>
+</head>
+<body>
+    <p>01.Write a script that selects all the div nodes that are directly inside other div elements</p>
+    <ul>
+        <li>Create a function using querySelectorAll()</li>
+        <li>Create a function using getElementsByTagName()</li>
+    </ul>
+    <div>
+        <p>Outter div</p>
+        <section>
+            <div>
+                <p>Inner div in section</p>
+            </div>
+        </section>
+    </div>
+    <div>
+        <p>Outter div</p>
+        <div>
+            <p>Inner div</p>
+        </div>
+    </div>
+    <div> Single div </div>
+    <div>
+        <p>Outter div</p>
+        <div>
+            <p>Inner div</p>
+        </div>
+    </div>
+    <div> Single div </div>
+    <div> Single div </div>
+
+    <button onclick="divSelector()">Select innerDivsQuery</button>
+    <div id="output" class="resultDivs"></div>
+
+    <button onclick="divSelectorTag()">Select innerDivsTagName</button>
+    <div id="output1" class="resultDivs"></div>
+
+    <p>
+        02.Create a function that gets the value of &lt;input type="text"> ands prints its value to the console
+    </p>
+
+    <input id="problem2" type="text" placeholder="Enter some text" />
+    <button onclick="inputValueGetter()">Click to print the value</button>
+    <div id="output2" class="resultDivs"></div>
+
+    <p>
+        03.Crеate a function that gets the value of &lt;input type="color"> and sets the background of the body to this value
+    </p>
+    Select color <input id="problem3" type="color" />
+    <button onclick="paint()">Paint the page</button>
+</body>
+</html>

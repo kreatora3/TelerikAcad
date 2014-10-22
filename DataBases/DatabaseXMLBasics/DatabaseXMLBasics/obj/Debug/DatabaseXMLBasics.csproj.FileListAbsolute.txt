@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLBasics\DatabaseXMLBasics\bin\DatabaseXMLBasics.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLBasics\DatabaseXMLBasics\bin\DatabaseXMLBasics.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLBasics\DatabaseXMLBasics\bin\DatabaseXMLBasics.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLBasics\DatabaseXMLBasics\obj\Debug\DatabaseXMLBasics.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLBasics\DatabaseXMLBasics\obj\Debug\DatabaseXMLBasics.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabaseXMLBasics\DatabaseXMLBasics\obj\Debug\DatabaseXMLBasics.pdb

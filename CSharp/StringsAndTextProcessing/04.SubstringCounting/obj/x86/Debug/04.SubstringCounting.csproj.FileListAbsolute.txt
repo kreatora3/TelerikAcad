@@ -1,0 +1,5 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\04.SubstringCounting\bin\Debug\04.SubstringCounting.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\04.SubstringCounting\bin\Debug\04.SubstringCounting.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\04.SubstringCounting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\04.SubstringCounting\obj\x86\Debug\04.SubstringCounting.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\04.SubstringCounting\obj\x86\Debug\04.SubstringCounting.pdb

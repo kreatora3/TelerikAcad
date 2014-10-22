@@ -1,0 +1,16 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\StoreSystem.ConsoleClient.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\StoreSystem.ConsoleClient.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\StoreSystem.ConsoleClient.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\StoreSystem.Data.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\StoreSystem.Model.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\StoreSystem.Data.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\StoreSystem.Model.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\obj\Debug\StoreSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\obj\Debug\StoreSystem.ConsoleClient.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\obj\Debug\StoreSystem.ConsoleClient.pdb
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DatabeseTestStores\StoreSystem.ConsoleClient\bin\Debug\Newtonsoft.Json.xml

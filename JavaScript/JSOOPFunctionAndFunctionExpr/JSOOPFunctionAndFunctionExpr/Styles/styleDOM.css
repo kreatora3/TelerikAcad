@@ -1,0 +1,7 @@
+﻿ul :first-child{
+    color: red;
+}
+
+body >p {
+    font-style:italic;
+}

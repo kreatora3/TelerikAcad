@@ -1,0 +1,196 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Strings</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="Scripts/01.ReverseString.js"></script>
+    <script src="Scripts/02.CorrectExpression.js"></script>
+    <script src="Scripts/03.SubstringSearch.js"></script>
+    <script src="Scripts/04.TagsExecution.js"></script>
+    <script src="Scripts/05.Replacing.js"></script>
+    <script src="Scripts/06.TextExtract.js"></script>
+    <script src="Scripts/07.UrlExtract.js"></script>
+    <script src="Scripts/08.ReplaceATag.js"></script>
+    <script src="Scripts/09.ExtractEmail.js"></script>
+    <script src="Scripts/10.PalindromesFinder.js"></script>
+    <script src="Scripts/11.Placeholder.js"></script>
+    <script src="Scripts/12.HtmlUI.js"></script>
+</head>
+<body>
+    <p>
+        01.Write a JavaScript function reverses string and returns itExample: "sample"  "elpmas".
+    </p>
+    <form>
+        <input type="text" name="string" placeholder="Enter string..." />
+        <input type="button" value="Reverse" onclick="reverse(this.form)" />
+    </form>
+    <div id="result1"></div>
+    <p>
+        02.Write a JavaScript function to check if in a given expression the brackets are put correctly.<br />
+        Example of correct expression: ((a+b)/5-d).<br />
+        Example of incorrect expression: )(a+b)).
+    </p>
+    <form>
+        <input type="text" name="expression" placeholder="Enter expression..." />
+        <input type="button" value="Check" onclick="checkExpression(this.form)" />
+    </form>
+    <div id="result2"></div>
+    <p>
+        03.Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).<br />
+        Example: The target substring is "in". The text is as follows: <br />
+        We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight.<br /> So we are drinking all the day. We will move out of it in 5 days.<br />
+        The result is: 9.
+    </p>
+    <form>
+        <input type="text" name="text" placeholder="Enter text..." />
+        <input type="text" name="substring" placeholder="Searched substring" />
+        <input type="button" value="Count" onclick="subStingSearch(this.form)" />
+    </form>
+    <div id="result3"></div>
+    <p>
+        04.You are given a text. Write a function that changes the text in all regions:<br />
+        &lt;upcase&gt;text&lt;/upcase&gt; to uppercase.<br />
+        &lt;lowcase&gt;text&lt;/lowcase&gt; to lowercase<br />
+        &lt;mixcase&gt;text&lt;/mixcase&gt; to mix casing(random)<br />
+        We are &lt;mixcase&gt;living&lt;/mixcase&gt; in a &lt;upcase&gt;yellow submarine&lt;/upcase&gt;. We &lt;mixcase&gt;don't&lt;/mixcase&gt; have &lt;lowcase&gt;anything&lt;/lowcase&gt; else.<br />
+        The expected result:<br />
+        We are LiVinG in a YELLOW SUBMARINE. We dOn'T have anything else.<br />
+        Regions can be nested
+    </p>
+    <form>
+        <input type="text" name="text" placeholder="Enter text..." />
+        <input type="button" value="Execute" onclick="tagExecutor(this.form)" />
+    </form>
+    <div id="result4"></div>
+    <p>
+        05.Write a function that replaces non breaking white-spaces in a text with &amp;nbsp;
+    </p>
+    <form>
+        <input type="text" name="text" placeholder="Enter text..." />
+        <input type="button" value="Execute" onclick="replacingNonBreakingSpace(this.form)" />
+    </form>
+    <div id="result5"></div>
+    <p>
+        06.
+        Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags:<br />
+        &lt;html&gt;
+        &lt;head&gt;
+        &lt;title&gt;Sample site&lt;/title&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+        &lt;div&gt;text&lt;div&gt;more text &lt;/div&gt;and more...&lt;/div&gt;in body
+        &lt;/body&gt;
+        &lt;/html&gt;<br />
+        result:<br />
+        Sample site text more textand more...in body
+    </p>
+    <form>
+        <input type="text" name="text" placeholder="Enter text..." />
+        <input type="button" value="Execute" onclick="textExctract(this.form)" />
+    </form>
+    <div id="result6"></div>
+    <p>
+        07.Write a script that parses an URL address given in the format:
+
+        and extracts from it the [protocol], [server] and [resource] elements. <br />
+        [protocol]://[server]/[resource]<br />
+        Return the elements in a JSON object.For example from the URL http://www.devbg.org/forum/index.php the following information should be extracted:<br />
+        {protocol: 'http', server: 'www.devbg.org',
+        resource: '/forum/index.php'}
+    </p>
+    <form>
+        <input type="text" name="url" placeholder="Enter url..." />
+        <input type="button" value="Extract" onclick="urlExtract(this.form)" />
+    </form>
+    <div id="result7"></div>
+    <p>
+        08.Write a JavaScript function that replaces in a HTML document given as string all the tags &lt;a href="…">…&lt;/a> with corresponding tags [URL=…]…/URL].
+        Sample HTML fragment: <br />
+        &lt;p>Please visit &lt;a href="http://academy.telerik. com">our site&lt;/a> to choose a training course.<br />
+        Also visit &lt;a href="www.devbg.org">our forum&lt;/a> to discuss the courses.&lt;/p><br />
+        &lt;p>Please visit [URL=http://academy.telerik. com]our site[/URL] to choose a training course.
+        <br />
+        Also visit [URL=www.devbg.org]our forum[/URL] to discuss the courses.&lt;/p>
+    </p>
+    <form>
+        <input type="text" name="htmlCode" placeholder="Enter code" />
+        <input type="button" value="Replace" onclick="replaceA(this.form)" />
+    </form>
+    <div id="result8"></div>
+    <p>
+        09.Write a function for extracting all email addresses from given text.
+        All substrings that match the format &lt;identifier>@&lt;host>…&lt;domain>
+        should be recognized as emails. <br />
+        Return the emails as array of strings.
+    </p>
+    <span>
+        <p>Text for test</p>
+        Of course, you still have to pay to receive text <span id="blue">phonenumber@vtext.com</span>  messages from other people. If somebody replies to a text message that you sent
+        as an IM or e-mail, his reply will come to you  <span id="blue">phonenumber@tmomail.net</span> in the format you initially sent it in, and reading it won't
+    </span>
+    <form>
+        <input type="text" name="mail" placeholder="Enter email" />
+        <input type="button" value="Extract" onclick="mailExtract(this.form)" />
+    </form>
+    <div id="result9"></div>
+    <p>
+        10.Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+    </p>
+    <span>
+        <p>Text for test</p>
+        The most familiar palindromes, in English at least, are character-by-character:
+        The written characters read the same backward as forward.
+        Some examples of common palindromic words: civic, radar, level, rotor, noon, kayak, reviver,
+        racecar, redder, madam, Malayalam, and refer.
+    </span>
+    <form>
+        <input type="text" name="text" placeholder="Enter text" />
+        <input type="button" value="Find" onclick="palindromesFinder(this.form)" />
+    </form>
+    <div id="result10"></div>
+    <p>
+        11.Write a function that formats a string using placeholders:<br />
+        var str = stringFormat('Hello {0}!', 'Peter');<br />
+        //str = 'Hello Peter!';<br />
+        The function should work with up to 30 placeholders and all types<br />
+        var frmt = '{0}, {1}, {0} text {2}';<br />
+        var str = stringFormat(frmt, 1, 'Pesho', 'Gosho');<br />
+        //str = '1, Pesho, 1 text Gosho'<br />
+    </p>
+    <form>
+        <input type="text" name="text1" placeholder="Enter text" />
+        <input type="text" name="text2" placeholder="Enter text" />
+        <input type="text" name="text3" placeholder="Enter text" />
+        <input type="button" value="Put in placeholders" onclick="placeholders(this.form)" />
+    </form>
+    <div id="result11"></div>
+    <p>
+        12.Write a function that creates a HTML UL using a template for every HTML LI. The source of the list should an array of elements.<br />
+        Replace all placeholders marked with –{…}–   with the value of the corresponding property of the object. Example:<br />
+        &lt;div data-type="template" id="list-item">
+        &lt;strong>-{name}-&lt;/strong> &lt;span>-{age}-&lt;/span>/div><br />
+        var people = [{name: 'Peter', age: 14},…];<br />
+        var tmpl = document.getElementById('list-item').innerHtml;<br />
+        var peopleList = generateList(people, template);<br />
+        //peopleList = '&lt;ul>&lt;li>&lt;strong>Peter&lt;/strong> &lt;span>14&lt;/span>&lt;/li>&lt;li>…&lt;/li>…&lt;/ul>'
+</p>
+    <section>
+        <h1>Current style :</h1>
+        <div id="list-item" data-type="template"><strong>-{name}-</strong> <span>-{age}-</span></div>
+        <div id="styleShow"></div>
+    </section>
+
+    <section>
+        <h1>Change style : (enter tag content only)</h1>
+        <div>
+            <span>Style for -{name}-</span><input id="nameStyle" type="text" value="strong" /> <br />
+            <span>Style for -{age}-</span><input id="ageStyle" type="text" value="span" /><br />
+        </div>
+        <button onclick="onGenerateTemplate()" id="btnTemp">Change Style</button>
+    </section>
+
+    <button onclick="onGenerateUl()" id="btnGenerate">Generate UL</button>
+
+    <div id="result"></div>
+</body>
+</html>

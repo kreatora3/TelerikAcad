@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="libs/jquery-2.1.1.min.js"></script>
+    <style>
+        div {
+            border: 2px dotted blue;
+            display: inline-block;
+            margin: 5px;
+            padding: 5px;
+            border-radius: 30%;
+        }
+
+        .noBorder {
+            border: none;
+        }
+
+        #firstelement {
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <div class="noBorder">
+        <button id="pre">Insert Before</button>
+        <button id="post">Insert After</button>
+        <br />
+        <div class="controlElement noBorder" id="preDivContainer">Start</div>
+        <div id="firstelement">base element</div>
+        <div class="controlElement noBorder" id="postDivContainer">End</div>
+    </div>
+    <script src="scripts/insertelementscript.js"></script>
+</body>
+</html>

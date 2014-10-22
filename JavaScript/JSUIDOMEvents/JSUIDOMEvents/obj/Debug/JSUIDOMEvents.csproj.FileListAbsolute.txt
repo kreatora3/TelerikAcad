@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMEvents\JSUIDOMEvents\bin\JSUIDOMEvents.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMEvents\JSUIDOMEvents\bin\JSUIDOMEvents.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMEvents\JSUIDOMEvents\bin\JSUIDOMEvents.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMEvents\JSUIDOMEvents\obj\Debug\JSUIDOMEvents.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMEvents\JSUIDOMEvents\obj\Debug\JSUIDOMEvents.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMEvents\JSUIDOMEvents\obj\Debug\JSUIDOMEvents.pdb

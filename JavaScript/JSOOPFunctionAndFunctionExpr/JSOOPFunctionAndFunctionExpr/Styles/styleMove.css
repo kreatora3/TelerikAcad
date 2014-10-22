@@ -1,0 +1,28 @@
+﻿#container {
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius:15px;
+    display: block;
+    overflow: auto;
+    position: absolute;
+}
+
+.circle {
+    display: inline-block;
+    position: absolute;
+    top: 140px;
+    left: 200px;
+    width: 20px;
+    height: 20px;
+    border-radius: 25px;
+    border: 1px solid;
+}
+
+.rect {
+    display: inline-block;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    
+}

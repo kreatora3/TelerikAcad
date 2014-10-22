@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\18.EmailExtraction\bin\Debug\18.EmailExtraction.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\18.EmailExtraction\bin\Debug\18.EmailExtraction.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\18.EmailExtraction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\18.EmailExtraction\obj\x86\Debug\18.EmailExtraction.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\StringsAndTextProcessing\18.EmailExtraction\obj\x86\Debug\18.EmailExtraction.pdb

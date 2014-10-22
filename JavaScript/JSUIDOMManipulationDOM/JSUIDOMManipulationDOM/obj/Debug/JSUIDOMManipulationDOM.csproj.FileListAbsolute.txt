@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMManipulationDOM\JSUIDOMManipulationDOM\bin\JSUIDOMManipulationDOM.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMManipulationDOM\JSUIDOMManipulationDOM\bin\JSUIDOMManipulationDOM.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMManipulationDOM\JSUIDOMManipulationDOM\bin\JSUIDOMManipulationDOM.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMManipulationDOM\JSUIDOMManipulationDOM\obj\Debug\JSUIDOMManipulationDOM.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMManipulationDOM\JSUIDOMManipulationDOM\obj\Debug\JSUIDOMManipulationDOM.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMManipulationDOM\JSUIDOMManipulationDOM\obj\Debug\JSUIDOMManipulationDOM.pdb

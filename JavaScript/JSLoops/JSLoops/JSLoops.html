@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Loops Homework</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="Scripts/01.PrintSomeNumbers.js"></script>
+    <script src="Scripts/02.DivisibleBy3and7.js"></script>
+    <script src="Scripts/03.MinAndMax.js"></script>
+    <script src="Scripts/04.SmallestAndLargestProperty.js"></script>
+</head>
+<body>
+    <p>
+        01.Write a script that prints all the numbers from 1 to N
+    </p>
+    <form>
+        <input type="text" name="num" placeholder="Enter number 'n'" />
+        <input type="button" value="Print!" onclick="printNumbers(this.form)" /> or
+        <input type="text" name="num1" placeholder="Enter number 'n'" />
+        <input type="button" value="Count!" onclick="timer(this.form)" />
+    </form>
+    <div id="result1"></div>
+
+    <p>
+        02.Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time
+    </p>
+
+    <form>
+        <input type="text" name="num" placeholder="Enter number..." />
+        <input type="button" value="Print!" onclick="divisibleBy3aAnd7(this.form)" />
+    </form>
+    <div id="result2"></div>
+
+    <p>
+        03.Write a script that finds the max and min number from a sequence of numbers
+    </p>
+    <form>
+        <span>*Enter numbers divided by white space like this 1 2 3 4</span>
+        <br />
+        <input type="text" name="num" placeholder="Enter some numbers..." />
+        <input type="button" value="Find Min and Max" onclick="maxAndMin(this.form)" />
+    </form>
+    <div id="result3"></div>
+
+    <p>
+        04.Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects
+    </p>
+    <form>
+        <input type="button" value="Result is ..." onclick="propertiesOrdered()" />
+    </form>
+    <div id="result4"></div>
+</body>
+</html>

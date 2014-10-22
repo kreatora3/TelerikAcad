@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog xmlns="https://www.youtube.com/watch?v=sgA7KIwKlOE">
+  <albums>
+    <album>
+      <name>5: The Gray Chapter </name>
+      <artist>Slipknot</artist>
+      <year>2014</year>
+      <producer>Roadrunner Records</producer>
+      <price>25</price>
+      <songs>
+        <song>
+          <title>The Negative One</title>
+          <duration>5.26</duration>
+        </song>
+        <song>
+          <title>The Devil In I</title>
+          <duration>5.58</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>All Hope Is Gone</name>
+      <artist>Slipknot</artist>
+      <year>2008</year>
+      <producer>Roadrunner Records</producer>
+      <price>19</price>
+      <songs>
+        <song>
+          <title>Psychosocial</title>
+          <duration>4.45</duration>
+        </song>
+        <song>
+          <title>Gematria (The Killing Name)</title>
+          <duration>6.03</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>Kill'em ALL</name>
+      <artist>Metallica</artist>
+      <year>1983</year>
+      <producer>Megaforce Records</producer>
+      <price>15</price>
+      <songs>
+        <song>
+          <title>Seek and Destroy</title>
+          <duration>6.55</duration>
+        </song>
+        <song>
+          <title>Whiplash</title>
+          <duration>4.10</duration>
+        </song>
+      </songs>
+    </album>
+
+    <album>
+      <name>And Justice For All</name>
+      <artist>Metallica</artist>
+      <year>1988</year>
+      <producer>Elektra</producer>
+      <price>15</price>
+      <songs>
+        <song>
+          <title>Blackened</title>
+          <duration>6.40</duration>
+        </song>
+        <song>
+          <title>...And Justice for all</title>
+          <duration>9.44</duration>
+        </song>
+      </songs>
+    </album>
+  </albums>
+</catalog>

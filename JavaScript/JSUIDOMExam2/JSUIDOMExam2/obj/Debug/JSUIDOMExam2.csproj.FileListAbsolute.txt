@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMExam2\JSUIDOMExam2\obj\Debug\JSUIDOMExam2.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMExam2\JSUIDOMExam2\bin\JSUIDOMExam2.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMExam2\JSUIDOMExam2\bin\JSUIDOMExam2.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMExam2\JSUIDOMExam2\bin\JSUIDOMExam2.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMExam2\JSUIDOMExam2\obj\Debug\JSUIDOMExam2.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSUIDOMExam2\JSUIDOMExam2\obj\Debug\JSUIDOMExam2.pdb

@@ -1,0 +1,6 @@
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\05.GenericClass\bin\Debug\05.GenericClass.exe.config
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\05.GenericClass\bin\Debug\05.GenericClass.exe
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\05.GenericClass\bin\Debug\05.GenericClass.pdb
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\05.GenericClass\obj\Debug\05.GenericClass.exe
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\05.GenericClass\obj\Debug\05.GenericClass.pdb
+C:\Users\kreatora3\documents\visual studio 2013\Projects\DefiningClasses2\05.GenericClass\obj\Debug\05.GenericClass.csprojResolveAssemblyReference.cache

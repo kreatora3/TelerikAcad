@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.Special Value\bin\Debug\2.Special Value.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.Special Value\bin\Debug\2.Special Value.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.Special Value\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.Special Value\obj\x86\Debug\2.Special Value.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\TestPrepCSharp2\2.Special Value\obj\x86\Debug\2.Special Value.pdb

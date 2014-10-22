@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\04.intToXnum\bin\Release\04.intToXnum.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\04.intToXnum\bin\Release\04.intToXnum.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\04.intToXnum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\04.intToXnum\obj\x86\Release\04.intToXnum.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\Homework2\04.intToXnum\obj\x86\Release\04.intToXnum.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\04.intToXnum\obj\x86\Release\04.intToXnum.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\04.intToXnum\obj\x86\Release\04.intToXnum.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\04.intToXnum\bin\Release\04.intToXnum.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\04.intToXnum\bin\Release\04.intToXnum.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\PrimitiveDataTypesAndVars\04.intToXnum\obj\x86\Release\ResolveAssemblyReference.cache

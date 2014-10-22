@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPFunctionAndFunctionExpr\JSOOPFunctionAndFunctionExpr\bin\JSOOPFunctionAndFunctionExpr.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPFunctionAndFunctionExpr\JSOOPFunctionAndFunctionExpr\bin\JSOOPFunctionAndFunctionExpr.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPFunctionAndFunctionExpr\JSOOPFunctionAndFunctionExpr\bin\JSOOPFunctionAndFunctionExpr.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPFunctionAndFunctionExpr\JSOOPFunctionAndFunctionExpr\obj\Debug\JSOOPFunctionAndFunctionExpr.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPFunctionAndFunctionExpr\JSOOPFunctionAndFunctionExpr\obj\Debug\JSOOPFunctionAndFunctionExpr.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSOOPFunctionAndFunctionExpr\JSOOPFunctionAndFunctionExpr\obj\Debug\JSOOPFunctionAndFunctionExpr.pdb

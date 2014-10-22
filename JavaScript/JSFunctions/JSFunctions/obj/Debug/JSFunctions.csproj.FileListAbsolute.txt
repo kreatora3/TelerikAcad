@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFunctions\JSFunctions\bin\JSFunctions.dll.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFunctions\JSFunctions\bin\JSFunctions.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFunctions\JSFunctions\bin\JSFunctions.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFunctions\JSFunctions\obj\Debug\JSFunctions.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFunctions\JSFunctions\obj\Debug\JSFunctions.dll
+c:\users\kreatora3\documents\visual studio 2013\Projects\JSFunctions\JSFunctions\obj\Debug\JSFunctions.pdb

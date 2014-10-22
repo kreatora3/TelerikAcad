@@ -1,0 +1,5 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SearchSymbols\bin\Debug\SearchSymbols.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SearchSymbols\bin\Debug\SearchSymbols.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SearchSymbols\bin\Debug\SearchSymbols.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SearchSymbols\obj\Debug\SearchSymbols.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\NumberOfRows\SearchSymbols\obj\Debug\SearchSymbols.pdb
