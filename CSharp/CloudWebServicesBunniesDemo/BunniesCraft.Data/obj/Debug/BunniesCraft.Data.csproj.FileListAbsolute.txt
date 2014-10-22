@@ -1,0 +1,12 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\BunniesCraft.Data.dll.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\BunniesCraft.Data.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\BunniesCraft.Data.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\BunniesCraft.Model.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\EntityFramework.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\BunniesCraft.Model.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\EntityFramework.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\obj\Debug\BunniesCraft.Data.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\obj\Debug\BunniesCraft.Data.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Data\obj\Debug\BunniesCraft.Data.pdb

@@ -1,0 +1,4 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Model\bin\Debug\BunniesCraft.Model.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Model\bin\Debug\BunniesCraft.Model.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Model\obj\Debug\BunniesCraft.Model.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesBunniesDemo\BunniesCraft.Model\obj\Debug\BunniesCraft.Model.pdb

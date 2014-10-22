@@ -1,0 +1,6 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesExamPreparation\Articles.WCF\bin\Articles.WCF.dll.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesExamPreparation\Articles.WCF\bin\Articles.WCF.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesExamPreparation\Articles.WCF\bin\Articles.WCF.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesExamPreparation\Articles.WCF\obj\Debug\Articles.WCF.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesExamPreparation\Articles.WCF\obj\Debug\Articles.WCF.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesExamPreparation\Articles.WCF\obj\Debug\Articles.WCF.pdb

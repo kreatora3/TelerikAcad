@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ClassesAndObjects\06.StringToSum\bin\Debug\06.StringToSum.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ClassesAndObjects\06.StringToSum\bin\Debug\06.StringToSum.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ClassesAndObjects\06.StringToSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ClassesAndObjects\06.StringToSum\obj\x86\Debug\06.StringToSum.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ClassesAndObjects\06.StringToSum\obj\x86\Debug\06.StringToSum.pdb
