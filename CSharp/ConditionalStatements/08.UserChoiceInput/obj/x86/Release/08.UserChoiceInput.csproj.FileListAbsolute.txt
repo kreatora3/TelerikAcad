@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\08.UserChoiceInput\bin\Release\08.jjj.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\08.UserChoiceInput\bin\Release\08.jjj.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\08.UserChoiceInput\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\08.UserChoiceInput\obj\x86\Release\08.jjj.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\08.UserChoiceInput\obj\x86\Release\08.jjj.pdb

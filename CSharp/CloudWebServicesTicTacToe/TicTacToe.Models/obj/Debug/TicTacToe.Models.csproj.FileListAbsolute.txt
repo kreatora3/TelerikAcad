@@ -1,0 +1,14 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\TicTacToe.Models.dll.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\TicTacToe.Models.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\TicTacToe.Models.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\EntityFramework.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\EntityFramework.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\obj\Debug\TicTacToe.Models.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\obj\Debug\TicTacToe.Models.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Models\obj\Debug\TicTacToe.Models.pdb

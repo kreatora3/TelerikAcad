@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04.TwoPositiveInts\bin\Debug\04.TwoPositiveInts.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04.TwoPositiveInts\bin\Debug\04.TwoPositiveInts.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04.TwoPositiveInts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04.TwoPositiveInts\obj\x86\Debug\04.TwoPositiveInts.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04.TwoPositiveInts\obj\x86\Debug\04.TwoPositiveInts.pdb

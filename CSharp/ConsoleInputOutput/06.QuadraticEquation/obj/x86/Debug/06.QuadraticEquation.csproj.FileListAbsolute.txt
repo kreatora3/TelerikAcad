@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06.QuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06.QuadraticEquation\obj\x86\Debug\06.QuadraticEquation.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06.QuadraticEquation\obj\x86\Debug\06.QuadraticEquation.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\bin\Release\05.GreaterNumber.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\bin\Release\05.GreaterNumber.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\obj\x86\Release\05.GreaterNumber.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\05.GreaterNumber\obj\x86\Release\05.GreaterNumber.pdb

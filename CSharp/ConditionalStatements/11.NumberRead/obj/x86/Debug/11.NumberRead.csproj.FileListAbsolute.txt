@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\11.NumberRead\bin\Debug\11.NumberRead.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\11.NumberRead\bin\Debug\11.NumberRead.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\11.NumberRead\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\11.NumberRead\obj\x86\Debug\11.NumberRead.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\11.NumberRead\obj\x86\Debug\11.NumberRead.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\09.FibbonaciSequence\bin\Release\09.FibbonaciSequence.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\09.FibbonaciSequence\bin\Release\09.FibbonaciSequence.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\09.FibbonaciSequence\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\09.FibbonaciSequence\obj\x86\Release\09.FibbonaciSequence.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\09.FibbonaciSequence\obj\x86\Release\09.FibbonaciSequence.pdb

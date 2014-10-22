@@ -1,0 +1,5 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\BitArrayClass\bin\Debug\BitArrayClass.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\BitArrayClass\bin\Debug\BitArrayClass.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\BitArrayClass\bin\Debug\BitArrayClass.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\BitArrayClass\obj\Debug\BitArrayClass.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\BitArrayClass\obj\Debug\BitArrayClass.pdb

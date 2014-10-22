@@ -1,0 +1,5 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.pdb

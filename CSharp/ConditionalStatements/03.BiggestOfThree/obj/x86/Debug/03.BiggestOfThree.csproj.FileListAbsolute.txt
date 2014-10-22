@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\03.BiggestOfThree\bin\Debug\03.BiggestOfThree.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\03.BiggestOfThree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\03.BiggestOfThree\obj\x86\Debug\03.BiggestOfThree.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\03.BiggestOfThree\obj\x86\Debug\03.BiggestOfThree.pdb

@@ -1,0 +1,16 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Data.dll.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Data.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Data.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Models.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Models.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\obj\Debug\TicTacToe.Data.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\obj\Debug\TicTacToe.Data.dll
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\CloudWebServicesTicTacToe\TicTacToe.Data\obj\Debug\TicTacToe.Data.pdb

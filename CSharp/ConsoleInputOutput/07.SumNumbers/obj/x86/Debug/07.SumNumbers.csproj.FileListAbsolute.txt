@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\07.SumNumbers\bin\Debug\07.SumNumbers.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\07.SumNumbers\bin\Debug\07.SumNumbers.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\07.SumNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\07.SumNumbers\obj\x86\Debug\07.SumNumbers.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\07.SumNumbers\obj\x86\Debug\07.SumNumbers.pdb

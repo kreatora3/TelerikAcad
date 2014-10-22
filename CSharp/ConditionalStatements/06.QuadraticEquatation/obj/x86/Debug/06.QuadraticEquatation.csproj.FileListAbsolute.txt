@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\06.QuadraticEquatation\bin\Debug\06.QuadraticEquatation.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\06.QuadraticEquatation\bin\Debug\06.QuadraticEquatation.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\06.QuadraticEquatation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\06.QuadraticEquatation\obj\x86\Debug\06.QuadraticEquatation.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\06.QuadraticEquatation\obj\x86\Debug\06.QuadraticEquatation.pdb

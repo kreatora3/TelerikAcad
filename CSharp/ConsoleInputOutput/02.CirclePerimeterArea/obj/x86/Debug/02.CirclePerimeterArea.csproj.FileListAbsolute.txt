@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\02.CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\02.CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\02.CirclePerimeterArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\02.CirclePerimeterArea\obj\x86\Debug\CirclePerimeterArea.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConsoleInputOutput\02.CirclePerimeterArea\obj\x86\Debug\CirclePerimeterArea.pdb

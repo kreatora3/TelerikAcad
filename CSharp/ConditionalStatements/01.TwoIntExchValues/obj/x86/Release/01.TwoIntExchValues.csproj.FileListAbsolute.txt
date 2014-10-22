@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\ConditionalStatements\01.TwoIntExchValues\bin\Release\01.TwoIntExchValues.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\ConditionalStatements\01.TwoIntExchValues\bin\Release\01.TwoIntExchValues.pdb
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\ConditionalStatements\01.TwoIntExchValues\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\ConditionalStatements\01.TwoIntExchValues\obj\x86\Release\01.TwoIntExchValues.exe
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\ConditionalStatements\01.TwoIntExchValues\obj\x86\Release\01.TwoIntExchValues.pdb

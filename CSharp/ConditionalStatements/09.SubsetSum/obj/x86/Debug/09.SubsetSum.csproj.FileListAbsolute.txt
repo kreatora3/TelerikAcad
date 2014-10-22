@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\09.SubsetSum\bin\Debug\09.SubsetSum.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\09.SubsetSum\bin\Debug\09.SubsetSum.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\09.SubsetSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\09.SubsetSum\obj\x86\Debug\09.SubsetSum.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2010\Projects\ConditionalStatements\09.SubsetSum\obj\x86\Debug\09.SubsetSum.pdb

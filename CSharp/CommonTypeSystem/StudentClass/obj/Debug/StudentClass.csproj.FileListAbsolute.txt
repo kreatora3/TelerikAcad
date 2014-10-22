@@ -1,0 +1,6 @@
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe.config
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.pdb
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.exe
+c:\users\kreatora3\documents\visual studio 2013\Projects\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.pdb
