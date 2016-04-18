@@ -1,0 +1,6 @@
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\BitsToBits\BitsToBits\bin\Debug\BitsToBits.exe.config
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\BitsToBits\BitsToBits\bin\Debug\BitsToBits.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\BitsToBits\BitsToBits\bin\Debug\BitsToBits.pdb
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\BitsToBits\BitsToBits\obj\Debug\BitsToBits.csprojResolveAssemblyReference.cache
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\BitsToBits\BitsToBits\obj\Debug\BitsToBits.exe
+C:\Users\kreatora3\Documents\Visual Studio 2013\Projects\BitsToBits\BitsToBits\obj\Debug\BitsToBits.pdb
